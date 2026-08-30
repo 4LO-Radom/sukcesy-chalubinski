@@ -12,7 +12,8 @@
     "wynik": "finalistka",
     "uczen": "Inga Kicior",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
     "wynik": "I miejsce",
     "uczen": "Inga Kicior",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 3,
@@ -42,7 +44,8 @@
     "wynik": "III miejsce",
     "uczen": "Julia Kubisiak",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 4,
@@ -57,7 +60,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Łukasz Adamczyk",
     "opiekun": "Agnieszka Kozakiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 5,
@@ -72,7 +76,8 @@
     "wynik": "III miejsce",
     "uczen": "Łukasz Adamczyk",
     "opiekun": "Agnieszka Kozakiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 6,
@@ -87,7 +92,8 @@
     "wynik": "II miejsce",
     "uczen": "Jan Kuna",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 7,
@@ -102,7 +108,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Barbara Misiowiec",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 8,
@@ -117,7 +124,8 @@
     "wynik": "finalistka",
     "uczen": "Karolina Kołtuniak",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 9,
@@ -132,7 +140,8 @@
     "wynik": "II miejsce w kategorii recytacja",
     "uczen": "Barbara Misiowiec",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 10,
@@ -147,7 +156,8 @@
     "wynik": "II miejsce w kategorii zdjęcie",
     "uczen": "Adam Żytny",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 11,
@@ -162,7 +172,8 @@
     "wynik": "III miejsce",
     "uczen": "Kacper Wołek",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 12,
@@ -177,7 +188,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Barbara Misiowiec",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 13,
@@ -192,7 +204,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Wójcik",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 14,
@@ -207,7 +220,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Paula Wysmolińska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 15,
@@ -222,7 +236,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Patrycja Golus",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 16,
@@ -237,7 +252,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Alicja Piechota",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 17,
@@ -252,7 +268,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Piotr Dobrasiewicz",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 18,
@@ -267,7 +284,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Marta Grabowska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 19,
@@ -282,7 +300,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Wojtyniak",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 20,
@@ -297,7 +316,8 @@
     "wynik": "II miejsce z kategorii plastycznej",
     "uczen": "Justyna Bryk",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 21,
@@ -312,7 +332,8 @@
     "wynik": "finalistka",
     "uczen": "Karolina Kołtuniak",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 22,
@@ -327,7 +348,8 @@
     "wynik": "finalista",
     "uczen": "Piotr Dróżdż",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 23,
@@ -342,7 +364,8 @@
     "wynik": "II miejsce",
     "uczen": "Wiktoria Kościów",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 24,
@@ -357,7 +380,8 @@
     "wynik": "III miejsce",
     "uczen": "Weronika Lis",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 25,
@@ -372,7 +396,8 @@
     "wynik": "III miejsce w kategorii plastycznej",
     "uczen": "Aleksandra Pisarek",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 26,
@@ -387,7 +412,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Magdalena Mierzwa",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 27,
@@ -402,7 +428,8 @@
     "wynik": "III miejsce",
     "uczen": "Barbara Misiowiec",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 28,
@@ -417,7 +444,8 @@
     "wynik": "II miejsce w kategorii poezja śpiewana",
     "uczen": "Julia Grotek",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 29,
@@ -432,7 +460,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Barbara Misiowiec",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 30,
@@ -447,7 +476,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Wójcik",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 31,
@@ -462,7 +492,8 @@
     "wynik": "finalistka",
     "uczen": "Julia Gordon",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 32,
@@ -477,7 +508,8 @@
     "wynik": "I miejsce w kategorii poezja śpiewana",
     "uczen": "Aleksandra Gozdur",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 33,
@@ -492,7 +524,8 @@
     "wynik": "II miejsce w kategorii poezja śpiewana",
     "uczen": "Aleksandra Wesołowska",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 34,
@@ -507,7 +540,8 @@
     "wynik": "III miejsce w kategorii poezja śpiewana",
     "uczen": "Łucja Szczepanik",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 35,
@@ -522,7 +556,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Grzegorz Jędrzejczyk",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 36,
@@ -537,7 +572,8 @@
     "wynik": "I miejsce",
     "uczen": "Wiktoria Kościów",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 37,
@@ -552,7 +588,8 @@
     "wynik": "III miejsce",
     "uczen": "Paulina Prygiel",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 38,
@@ -567,7 +604,8 @@
     "wynik": "V miejsce",
     "uczen": "Michał Góraj",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 39,
@@ -582,7 +620,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Weronika Lis",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 40,
@@ -597,7 +636,8 @@
     "wynik": "I miejsce",
     "uczen": "Aleksandra Gozdur",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 41,
@@ -612,7 +652,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Kinga Plewińska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 42,
@@ -627,7 +668,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Katarzyna Wysocka",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 43,
@@ -642,7 +684,8 @@
     "wynik": "III miejsce",
     "uczen": "Paulina Prygiel, Agata Kowalczyk, Maja Pająk, Dawid Jasiński, Jakub Wlazło",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 44,
@@ -657,7 +700,8 @@
     "wynik": "V miejsce",
     "uczen": "Izabela Wasiak, Julia Ćwiklak, Aleksandra Kamienik, Aleksandra Wolszczak, Karolina Rybak",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 45,
@@ -672,7 +716,8 @@
     "wynik": "laureatka",
     "uczen": "Karolina Worosz",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 46,
@@ -687,7 +732,8 @@
     "wynik": "laureat",
     "uczen": "Grzegorz Jędrzejczyk",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 47,
@@ -702,7 +748,8 @@
     "wynik": "laureat",
     "uczen": "Kacper Wołek",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 48,
@@ -717,7 +764,8 @@
     "wynik": "III miejsce",
     "uczen": "Patrycja Golus",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 49,
@@ -732,7 +780,8 @@
     "wynik": "laureatka",
     "uczen": "Natalia Zagrodnik",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 50,
@@ -747,7 +796,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Bassaj",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 51,
@@ -762,7 +812,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Andżelika Lament",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 52,
@@ -777,7 +828,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Milena Gruszczyńska",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 53,
@@ -792,7 +844,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Natalia Kwiatkowska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 54,
@@ -807,7 +860,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Aleksandra Chrzanowska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 55,
@@ -822,7 +876,8 @@
     "wynik": "I miejsce",
     "uczen": "Kacper Wołek",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 56,
@@ -837,7 +892,8 @@
     "wynik": "II miejsce w kategorii esej",
     "uczen": "Natalia Karwowska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 57,
@@ -852,7 +908,8 @@
     "wynik": "wyróżnienie w kategorii praca plastyczna",
     "uczen": "Weronika Rychlik",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 58,
@@ -867,7 +924,8 @@
     "wynik": "III miejsce",
     "uczen": "Julia Wójcik",
     "opiekun": "Anna Iwańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 59,
@@ -882,7 +940,8 @@
     "wynik": "I miejsce w kategorii poezja śpiewana",
     "uczen": "Martyna Czachurska",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 60,
@@ -897,7 +956,8 @@
     "wynik": "II miejsce w kategorii poezja śpiewana",
     "uczen": "Aleksandra Wesołowska",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 61,
@@ -912,7 +972,8 @@
     "wynik": "III miejsce w kategorii recytacja",
     "uczen": "Mikołaj Maj",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 62,
@@ -927,7 +988,8 @@
     "wynik": "I miejsce",
     "uczen": "Maja Szydłowska",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 63,
@@ -942,7 +1004,8 @@
     "wynik": "III miejsce",
     "uczen": "Dominika Olek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 64,
@@ -957,7 +1020,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Bassaj",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 65,
@@ -972,7 +1036,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Kinga Sułek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 66,
@@ -987,7 +1052,8 @@
     "wynik": "III miejsce",
     "uczen": "Natalia Abramowicz, Wiktoria Jędras, Klaudia Makowska, Paulina Marczykowska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 67,
@@ -1002,7 +1068,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Łukasz Dudek",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 68,
@@ -1017,7 +1084,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Aleksandra Król",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 69,
@@ -1032,7 +1100,8 @@
     "wynik": "nagroda",
     "uczen": "Agata Stróż",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 70,
@@ -1047,7 +1116,8 @@
     "wynik": "II miejsce: plakat",
     "uczen": "Weronika Rychlik",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 71,
@@ -1062,7 +1132,8 @@
     "wynik": "wyróżnienie: plakat",
     "uczen": "Łukasz Dudek",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 72,
@@ -1077,7 +1148,8 @@
     "wynik": "wyróżnienie: plakat",
     "uczen": "Marta Jagielska",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 73,
@@ -1092,7 +1164,8 @@
     "wynik": "I miejsce: wiersz",
     "uczen": "Aleksandra Olifirowicz",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 74,
@@ -1107,7 +1180,8 @@
     "wynik": "II miejsce: wiersz",
     "uczen": "Kinga Plewińska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 75,
@@ -1122,7 +1196,8 @@
     "wynik": "III miejsce: wiersz",
     "uczen": "Ewelina Pyszek",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 76,
@@ -1137,7 +1212,8 @@
     "wynik": "I miejsce: esej",
     "uczen": "Joanna Majsiak",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 77,
@@ -1152,7 +1228,8 @@
     "wynik": "III miejsce: esej",
     "uczen": "Kacper Nitek",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 78,
@@ -1167,7 +1244,8 @@
     "wynik": "wyróżnienie: esej",
     "uczen": "Aleksandra Młyńska",
     "opiekun": "Agnieszka Kozakiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 79,
@@ -1182,7 +1260,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Karolina Janczara",
     "opiekun": "Agnieszka Kozakiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 80,
@@ -1197,7 +1276,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Wójcik",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 81,
@@ -1212,7 +1292,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Natalia Beczek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 82,
@@ -1227,7 +1308,8 @@
     "wynik": "II miejsce",
     "uczen": "Adam Stępień",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 83,
@@ -1242,7 +1324,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Adam Stępień",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 84,
@@ -1257,7 +1340,8 @@
     "wynik": "Laureat",
     "uczen": "Tomasz Głogowski",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 85,
@@ -1272,7 +1356,8 @@
     "wynik": "II miejsce",
     "uczen": "Bartłomiej Nowak",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 86,
@@ -1287,7 +1372,8 @@
     "wynik": "finalistka",
     "uczen": "Weronika Strużyna",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 87,
@@ -1302,7 +1388,8 @@
     "wynik": "II etap",
     "uczen": "Julia Kolibabka, Kinga Mucha, Amelia Michalczewska, Bartek Pietrasik, Bartosz Mrozek",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 88,
@@ -1317,7 +1404,8 @@
     "wynik": "II etap",
     "uczen": "Julia Węgrzycka, Michał Zieliński, Natalia Kołodziejczyk, Julia Musiał, Dominika Skrzypczak",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 89,
@@ -1332,7 +1420,8 @@
     "wynik": "II miejsce",
     "uczen": "Paulina Sławińska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 90,
@@ -1347,7 +1436,8 @@
     "wynik": "I miejsce w kategorii plakat",
     "uczen": "Milena Krupa",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 91,
@@ -1362,7 +1452,8 @@
     "wynik": "II miejsce w kategorii plakat",
     "uczen": "Julia Matracka",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 92,
@@ -1377,7 +1468,8 @@
     "wynik": "wyróżnienie w kategorii plakat",
     "uczen": "Wiktoria Pastuszka",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 93,
@@ -1392,7 +1484,8 @@
     "wynik": "wyróżnienie w kategorii plakat",
     "uczen": "Agnieszka Kobierska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 94,
@@ -1407,7 +1500,8 @@
     "wynik": "wyróżnienie w kategorii plakat",
     "uczen": "Izabela Wolak",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 95,
@@ -1422,7 +1516,8 @@
     "wynik": "I miejsce w kategorii wiersz",
     "uczen": "Anna Dębiec",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 96,
@@ -1437,7 +1532,8 @@
     "wynik": "III miejsce w kategorii wiersz",
     "uczen": "Weronika Strużyna",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 97,
@@ -1452,7 +1548,8 @@
     "wynik": "wyróżnienie w kategorii wiersz",
     "uczen": "Jan Lipiński",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 98,
@@ -1467,7 +1564,8 @@
     "wynik": "wyróżnienie w kategorii wiersz",
     "uczen": "Natalia Poneta",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 99,
@@ -1482,7 +1580,8 @@
     "wynik": "finalistka",
     "uczen": "Natalia Karwowska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 100,
@@ -1497,7 +1596,8 @@
     "wynik": "I miejsce",
     "uczen": "Wiktoria Skórnicka",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 101,
@@ -1512,7 +1612,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Michalczyk",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 102,
@@ -1527,7 +1628,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Weronika Korczak",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 103,
@@ -1542,7 +1644,8 @@
     "wynik": "II miejsce",
     "uczen": "Natalia Łuczkiewicz",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 104,
@@ -1557,7 +1660,8 @@
     "wynik": "III miejsce",
     "uczen": "Paulina Sławińska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 105,
@@ -1572,7 +1676,8 @@
     "wynik": "finalista",
     "uczen": "Weronika Strużyna",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 106,
@@ -1587,7 +1692,8 @@
     "wynik": "finalistka",
     "uczen": "Zofia Nędzi",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 107,
@@ -1602,7 +1708,8 @@
     "wynik": "finalistka",
     "uczen": "Marta Czyżewska",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 108,
@@ -1617,7 +1724,8 @@
     "wynik": "finalistka",
     "uczen": "Magdalena Krawczyk",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 109,
@@ -1632,7 +1740,8 @@
     "wynik": "finalistka",
     "uczen": "Julia Świadek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 110,
@@ -1647,7 +1756,8 @@
     "wynik": "Finalista",
     "uczen": "Wiktor Barszczewski",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 111,
@@ -1662,7 +1772,8 @@
     "wynik": "Zwycięstwo",
     "uczen": "Grzegorz Wysocki",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 112,
@@ -1677,7 +1788,8 @@
     "wynik": "I miejsce",
     "uczen": "Lena Górniak",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 113,
@@ -1692,7 +1804,8 @@
     "wynik": "II miejsce",
     "uczen": "Maria Tomczyk",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 114,
@@ -1707,7 +1820,8 @@
     "wynik": "wyróżnienie w kategorii poezja śpiewana",
     "uczen": "Zuzanna Drabik",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 115,
@@ -1722,7 +1836,8 @@
     "wynik": "laureatka",
     "uczen": "Maria Tomczyk",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 116,
@@ -1737,7 +1852,8 @@
     "wynik": "finalistka",
     "uczen": "Joanna Borodziuk",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 117,
@@ -1752,7 +1868,8 @@
     "wynik": "II miejsce",
     "uczen": "Julia Świadek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 118,
@@ -1767,7 +1884,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Łucja Gutkowska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 119,
@@ -1782,7 +1900,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Aleksandra Kramek",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 120,
@@ -1797,7 +1916,8 @@
     "wynik": "II miejsce",
     "uczen": "Lena Górniak",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 121,
@@ -1812,7 +1932,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Hanna Kwiecień",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 122,
@@ -1827,7 +1948,8 @@
     "wynik": "III miejsce",
     "uczen": "Natalia Łuczkiewicz",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 123,
@@ -1842,7 +1964,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Martyna Grodzicka",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 124,
@@ -1857,7 +1980,8 @@
     "wynik": "II miejsce",
     "uczen": "Diana Mleczkowska",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 125,
@@ -1872,7 +1996,8 @@
     "wynik": "II miejsce",
     "uczen": "Julia Świadek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 126,
@@ -1887,7 +2012,8 @@
     "wynik": "finalistka",
     "uczen": "Weronika Czarnecka",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 127,
@@ -1902,7 +2028,8 @@
     "wynik": "finalistka",
     "uczen": "Aleksandra Szymczak",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 128,
@@ -1917,7 +2044,8 @@
     "wynik": "finaliści",
     "uczen": "Piotr Fijołek, Amelia Krok, Tomasz Kruk, Amelia Rąbkowska, Krzysztof Wieczorek",
     "opiekun": "Michał Kański",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 129,
@@ -1932,7 +2060,8 @@
     "wynik": "I miejsce: plakat",
     "uczen": "Julia Wydra",
     "opiekun": "M. Jankowska, A. Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 130,
@@ -1947,7 +2076,8 @@
     "wynik": "III miejsce: plakat",
     "uczen": "Julia Życka",
     "opiekun": "M. Jankowska, A. Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 131,
@@ -1962,7 +2092,8 @@
     "wynik": "wyróżnienie: plakat",
     "uczen": "Kacper Gola",
     "opiekun": "M. Jankowska, A. Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 132,
@@ -1977,7 +2108,8 @@
     "wynik": "I miejsce: wiersz",
     "uczen": "Jan Lipiński",
     "opiekun": "M. Jankowska, A. Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 133,
@@ -1992,7 +2124,8 @@
     "wynik": "wyróżnienie: wiersz",
     "uczen": "Aleksandra Michalik",
     "opiekun": "M. Jankowska, A. Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 134,
@@ -2007,7 +2140,8 @@
     "wynik": "wyróżnienie: wiersz",
     "uczen": "Karolina Michalik (2b)",
     "opiekun": "M. Jankowska, A. Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 135,
@@ -2022,7 +2156,8 @@
     "wynik": "laureatka",
     "uczen": "Wiktoria Golus",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 136,
@@ -2037,7 +2172,8 @@
     "wynik": "finalistka",
     "uczen": "Nadia Rybak",
     "opiekun": "Dariusz Rzepka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 137,
@@ -2052,7 +2188,8 @@
     "wynik": "III miejsce",
     "uczen": "Małgorzata Chodyra",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 138,
@@ -2067,7 +2204,8 @@
     "wynik": "III miejsce",
     "uczen": "Zuzanna Zięba",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 139,
@@ -2082,7 +2220,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Karolina Szczepaniak",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 140,
@@ -2097,7 +2236,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Marta Bednarska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 141,
@@ -2112,7 +2252,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Roksana Wieczorek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 142,
@@ -2127,7 +2268,8 @@
     "wynik": "finaliści",
     "uczen": "Piotr Fijołek, Tomasz Kruk, Hanna Kwiecień, Hanna Mucha",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 143,
@@ -2142,7 +2284,8 @@
     "wynik": "II miejsce: plakat",
     "uczen": "Zuzanna Brzeska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 144,
@@ -2157,7 +2300,8 @@
     "wynik": "III miejsce: plakat",
     "uczen": "Zuzanna Murdza",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 145,
@@ -2172,7 +2316,8 @@
     "wynik": "wyróżnienie: plakat",
     "uczen": "Grzegorz Wysocki",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 146,
@@ -2187,7 +2332,8 @@
     "wynik": "I miejsce: wiersz",
     "uczen": "Katarzyna Dygas",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 147,
@@ -2202,7 +2348,8 @@
     "wynik": "II miejsce: wiersz",
     "uczen": "Ewa Budzińska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 148,
@@ -2217,7 +2364,8 @@
     "wynik": "wyróżnienie: wiersz",
     "uczen": "Maja Karczewska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 149,
@@ -2232,7 +2380,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Mateusz Mechowski",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 150,
@@ -2247,7 +2396,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Pola Siwecka",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 151,
@@ -2262,7 +2412,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Aleksander Pelc",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 152,
@@ -2277,7 +2428,8 @@
     "wynik": "I miejsce",
     "uczen": "Hubert Sałbut",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 153,
@@ -2292,7 +2444,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Zuzanna Brzeska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 154,
@@ -2307,7 +2460,8 @@
     "wynik": "finalistka",
     "uczen": "Alicja Gajos",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 155,
@@ -2322,7 +2476,8 @@
     "wynik": "finalistka",
     "uczen": "Wiktoria Chojnacka",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 156,
@@ -2337,7 +2492,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Aleksandra Rogala",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 157,
@@ -2352,7 +2508,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Zuzanna Brzeska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 158,
@@ -2367,7 +2524,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Agata Zalewska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 159,
@@ -2382,7 +2540,8 @@
     "wynik": "II miejsce: praca literacka",
     "uczen": "Hanna Kwiecień",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 160,
@@ -2397,7 +2556,8 @@
     "wynik": "III miejsce: praca literacka",
     "uczen": "Natalia Szczepaniak",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 161,
@@ -2412,7 +2572,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Zofia Tatarek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 162,
@@ -2427,7 +2588,8 @@
     "wynik": "finalistka",
     "uczen": "Nadia Rybak",
     "opiekun": "Dariusz Rzepka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 163,
@@ -2442,7 +2604,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Hubert Sałbut",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 164,
@@ -2457,7 +2620,8 @@
     "wynik": "I miejsce",
     "uczen": "Amelia Chrząszcz",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 165,
@@ -2472,7 +2636,8 @@
     "wynik": "I miejsce",
     "uczen": "Aleks Sowa",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 166,
@@ -2487,7 +2652,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Milena Norek",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 167,
@@ -2502,7 +2668,8 @@
     "wynik": "finalistka",
     "uczen": "Magdalena Chodyra",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 168,
@@ -2517,7 +2684,8 @@
     "wynik": "finalistka",
     "uczen": "Anna Domagalska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 169,
@@ -2532,7 +2700,8 @@
     "wynik": "finalistka",
     "uczen": "Alicja Gajos",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 170,
@@ -2547,7 +2716,8 @@
     "wynik": "II miejsce",
     "uczen": "Veleslava Kachalova",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 171,
@@ -2562,7 +2732,8 @@
     "wynik": "II miejsce",
     "uczen": "Zofia Tatarek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 172,
@@ -2577,7 +2748,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Agnieszka Gizińska",
     "opiekun": "Agnieszka Sołśnia",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 173,
@@ -2592,7 +2764,8 @@
     "wynik": "finalistka",
     "uczen": "Klaudia Sikora",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 174,
@@ -2607,7 +2780,8 @@
     "wynik": "finalistka",
     "uczen": "Magdalena Chodyra",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 175,
@@ -2622,7 +2796,8 @@
     "wynik": "finalistka",
     "uczen": "Antonina Goździejewska",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 176,
@@ -2637,7 +2812,8 @@
     "wynik": "finalistka",
     "uczen": "Marta Bednarek",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 177,
@@ -2652,7 +2828,8 @@
     "wynik": "finalistka",
     "uczen": "Julia Markiewicz",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 178,
@@ -2667,7 +2844,8 @@
     "wynik": "I miejsce",
     "uczen": "Karolina Kaim",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 179,
@@ -2682,7 +2860,8 @@
     "wynik": "III miejsce",
     "uczen": "Zuzanna Murdza",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 180,
@@ -2697,7 +2876,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Zuzanna Brzeska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 181,
@@ -2712,7 +2892,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Kaja Żaczek",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 182,
@@ -2727,7 +2908,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Dorota Pietrzyk",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 183,
@@ -2742,7 +2924,8 @@
     "wynik": "I miejsce",
     "uczen": "Lena Podsiadły",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 184,
@@ -2757,7 +2940,8 @@
     "wynik": "III miejsce",
     "uczen": "Magdalena Trzcińska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 185,
@@ -2772,7 +2956,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Kinga Czyżewska",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 186,
@@ -2787,7 +2972,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Alicja Jelonkiewicz",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 187,
@@ -2802,7 +2988,8 @@
     "wynik": "nagroda specjalna",
     "uczen": "Mateusz Mechowski",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 188,
@@ -2817,7 +3004,8 @@
     "wynik": "wyróżnienie: ‘The Fastest Progress’",
     "uczen": "Bartosz Dygała, Zofia Minda, Miłosz Hernik, Gustaw Ugrewicz",
     "opiekun": "Małgorzata Podkowińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 189,
@@ -2832,7 +3020,8 @@
     "wynik": "finalista",
     "uczen": "Miłosz Hernik",
     "opiekun": "Małgorzata Podkowińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 190,
@@ -2847,7 +3036,8 @@
     "wynik": "finalistka",
     "uczen": "Anna Siczek",
     "opiekun": "Paweł Majchrzyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 191,
@@ -2862,7 +3052,8 @@
     "wynik": "laureatka",
     "uczen": "Katarzyna Dygas",
     "opiekun": "Justyna Mrozek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 192,
@@ -2877,7 +3068,8 @@
     "wynik": "półfinalista",
     "uczen": "Antoni Przerwa",
     "opiekun": "M . Podkowińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 193,
@@ -2892,7 +3084,8 @@
     "wynik": "I miejsce w półfinale",
     "uczen": "Weronika Bieniek, Paula Wysmolińska, Patrycja Ciucias",
     "opiekun": "Izabela Ikwanty",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 194,
@@ -2907,7 +3100,8 @@
     "wynik": "II miejsce w półfinale",
     "uczen": "Angelika Kłódka, Aleksandra Kalita, Michał Łukasiewicz",
     "opiekun": "Renata Leszczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 195,
@@ -2922,7 +3116,8 @@
     "wynik": "II miejsce w półfinale",
     "uczen": "Julia Chmielowiec, Marta Jagielska, Aleksandra Rybak",
     "opiekun": "Izabela Ikwanty",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 196,
@@ -2937,7 +3132,8 @@
     "wynik": "II miejsce w finale",
     "uczen": "Julia Chmielowiec",
     "opiekun": "Izabela Ikwanty",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 197,
@@ -2952,7 +3148,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Marciniak",
     "opiekun": "Izabela Ikwanty",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 198,
@@ -2967,7 +3164,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Dawid Witczak",
     "opiekun": "Izabela Ikwanty",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 199,
@@ -2982,7 +3180,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Kinga Plewińska",
     "opiekun": "Małgorzata Sapińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 200,
@@ -2997,7 +3196,8 @@
     "wynik": "II miejsce w półfinale",
     "uczen": "Julia Aderek, Luiza Jabłonka, Kaja Mąkosa",
     "opiekun": "Izabela Ikwanty",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 201,
@@ -3012,7 +3212,8 @@
     "wynik": "II miejsce w półfinale",
     "uczen": "Emilia Król, Jakub Klimek, Maja Kwiecień",
     "opiekun": "Rafał Kosior",
-    "typ": ""
+    "typ": "",
+    "zakonczony": true
   },
   {
     "id": 202,
@@ -3027,7 +3228,8 @@
     "wynik": "I miejsce",
     "uczen": "Barbara Ziewiecka",
     "opiekun": "Mario Fernandez Perez",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 203,
@@ -3042,7 +3244,8 @@
     "wynik": "II miejsce",
     "uczen": "Aleksandra Słowińska",
     "opiekun": "Mario Fernandez Perez",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 204,
@@ -3057,7 +3260,8 @@
     "wynik": "finalistka",
     "uczen": "Aleksandra Słowińska",
     "opiekun": "Agnieszka Kowal , Jarosław Barański, Mario Fernandez Perez",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 205,
@@ -3072,7 +3276,8 @@
     "wynik": "I miejsce",
     "uczen": "Małgorzata Urbańska",
     "opiekun": "Mario Fernandez Perez",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 206,
@@ -3087,7 +3292,8 @@
     "wynik": "I miejsce",
     "uczen": "Kamila Będzińska, Kira Litwinowa, Magdalena Molga, Maja Mizera, Małgorzata Zawadzka, Milena Alot, Natalia Zagożdżon, Szymon Tyczyński",
     "opiekun": "Mario Fernandez Perez",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 207,
@@ -3102,7 +3308,8 @@
     "wynik": "finalistka",
     "uczen": "Kinga Cieślak",
     "opiekun": "Agnieszka Kowal , Jarosław Barański, Mario Fernandez Perez",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 208,
@@ -3117,7 +3324,8 @@
     "wynik": "I miejsce",
     "uczen": "Aleksandra Bukowska, Szymon Tyczyński, Natalia Zagożdżon, Milena Alot, Małgorzata Zawadzka, Maja Mizera, Magdalena Molga, Kamila Będzińska",
     "opiekun": "Mario Fernandez Perez",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 209,
@@ -3132,7 +3340,8 @@
     "wynik": "II miejsce",
     "uczen": "Hanna Gliszczyńska",
     "opiekun": "Mario Fernandez Perez",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 210,
@@ -3147,7 +3356,8 @@
     "wynik": "finalista",
     "uczen": "Mateusz Pałczyński",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 211,
@@ -3162,7 +3372,8 @@
     "wynik": "laureaci",
     "uczen": "Aleksandra Chebdowska, Karolina Kossowska, Natalia Karasińska, Joanna Głowacka, Maria Kordys, Katarzyna Kosela, Aleksandra Moczulska., Alicja Wróblewska",
     "opiekun": "Joanna Bęczkowska, Marcin Kamańczyk, Kamila Koscielnik, Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 212,
@@ -3177,7 +3388,8 @@
     "wynik": "finalistka",
     "uczen": "Dorota Krąpiec",
     "opiekun": "Małgorzata Sołtysiak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 213,
@@ -3192,7 +3404,8 @@
     "wynik": "finalistka",
     "uczen": "Natalia Szkuta",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 214,
@@ -3207,7 +3420,8 @@
     "wynik": "finalistka",
     "uczen": "Weronika Wąsik",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 215,
@@ -3222,7 +3436,8 @@
     "wynik": "laureat",
     "uczen": "Jakub Boruch",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 216,
@@ -3237,7 +3452,8 @@
     "wynik": "laureatka",
     "uczen": "Róża Dziubińska",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 217,
@@ -3252,7 +3468,8 @@
     "wynik": "finalistka",
     "uczen": "Aleksandra Węgrzynowska",
     "opiekun": "Małgorzata Sołtysiak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 218,
@@ -3267,7 +3484,8 @@
     "wynik": "laureat",
     "uczen": "Bartłomiej Morgaś",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 219,
@@ -3282,7 +3500,8 @@
     "wynik": "finalista",
     "uczen": "Jakub Gleich",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 220,
@@ -3297,7 +3516,8 @@
     "wynik": "finalista",
     "uczen": "Paweł Grabowski",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 221,
@@ -3312,7 +3532,8 @@
     "wynik": "laureat",
     "uczen": "Aleksandra Lao",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 222,
@@ -3327,7 +3548,8 @@
     "wynik": "laureat",
     "uczen": "Maciej Lisowski",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 223,
@@ -3342,7 +3564,8 @@
     "wynik": "laureat",
     "uczen": "Mateusz Żurek",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 224,
@@ -3357,7 +3580,8 @@
     "wynik": "laureatka",
     "uczen": "Katarzyna Wysocka",
     "opiekun": "Małgorzata Sołtysiak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 225,
@@ -3372,7 +3596,8 @@
     "wynik": "laureatka",
     "uczen": "Aleksandra Węgorzewska",
     "opiekun": "Małgorzata Sołtysiak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 226,
@@ -3387,7 +3612,8 @@
     "wynik": "laureat",
     "uczen": "Bartłomiej Morgaś",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 227,
@@ -3402,7 +3628,8 @@
     "wynik": "finalista",
     "uczen": "Jakub Kowalczyk",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 228,
@@ -3417,7 +3644,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Aleksandra Król",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 229,
@@ -3432,7 +3660,8 @@
     "wynik": "finalistka",
     "uczen": "Gabriela Lis",
     "opiekun": "Małgorzata Sołtysiak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 230,
@@ -3447,7 +3676,8 @@
     "wynik": "finaliści",
     "uczen": "Piotr Mizera, Jakub Gleich, Paweł Grabowski, Zuzanna Kosiec",
     "opiekun": "Małgorzata Sołtysiak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 231,
@@ -3462,7 +3692,8 @@
     "wynik": "laureatka",
     "uczen": "Małek Aleksandra",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 232,
@@ -3477,7 +3708,8 @@
     "wynik": "laureatka",
     "uczen": "Marika Tokarska",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 233,
@@ -3492,7 +3724,8 @@
     "wynik": "laureatka",
     "uczen": "Natalia Kwiatkowska",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 234,
@@ -3507,7 +3740,8 @@
     "wynik": "laureatka",
     "uczen": "Patrycja Golus",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 235,
@@ -3522,7 +3756,8 @@
     "wynik": "laureatka",
     "uczen": "Natalia Zagrodnik",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 236,
@@ -3537,7 +3772,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Bassaj, Natalia Szymańska, Maja Janisiak, Klara Koczyk, Izabella Magiera, Małgorzata Stanios, Julia Wożniak",
     "opiekun": "Kamila Kościelnik",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 237,
@@ -3552,7 +3788,8 @@
     "wynik": "finalista",
     "uczen": "Bartłomiej Morgaś",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 238,
@@ -3567,7 +3804,8 @@
     "wynik": "finalista",
     "uczen": "Jakub Gleich",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 239,
@@ -3582,7 +3820,8 @@
     "wynik": "finalista",
     "uczen": "Bartłomiej Morgaś",
     "opiekun": "Marcin Kamańczyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 240,
@@ -3597,7 +3836,8 @@
     "wynik": "laureatka",
     "uczen": "Zuzanna Mazur",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 241,
@@ -3612,7 +3852,8 @@
     "wynik": "finalista",
     "uczen": "Piotr Mizera",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 242,
@@ -3627,7 +3868,8 @@
     "wynik": "II miejsce",
     "uczen": "Agata Grabarczyk, Maja Kopczyńska, Amelia Średnicka",
     "opiekun": "Kamila Kościelnik",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 243,
@@ -3642,7 +3884,8 @@
     "wynik": "laureat",
     "uczen": "Maciej Mosionek",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 244,
@@ -3657,7 +3900,8 @@
     "wynik": "finalistka",
     "uczen": "Aleksandra Skurosz",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 245,
@@ -3672,7 +3916,8 @@
     "wynik": "laureaci",
     "uczen": "Natalia Kołodziejczyk, Dominika Skrzypczak, Michał Zieliński",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 246,
@@ -3687,7 +3932,8 @@
     "wynik": "finalista",
     "uczen": "Nina Oleś",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 247,
@@ -3702,7 +3948,8 @@
     "wynik": "finalista",
     "uczen": "Flawiusz Frankiewicz",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 248,
@@ -3717,7 +3964,8 @@
     "wynik": "finalista",
     "uczen": "Antoni Urbański",
     "opiekun": "Marcin Markowicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 249,
@@ -3732,7 +3980,8 @@
     "wynik": "finalista",
     "uczen": "Mieszko Frączek",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 250,
@@ -3747,7 +3996,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Łucja Łuszcz",
     "opiekun": "M. Chałubińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 251,
@@ -3762,7 +4012,8 @@
     "wynik": "finalistka",
     "uczen": "Monika Jurczak",
     "opiekun": "B. Czubak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 252,
@@ -3777,7 +4028,8 @@
     "wynik": "finalistka",
     "uczen": "Paulina Kras",
     "opiekun": "B. Czubak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 253,
@@ -3792,7 +4044,8 @@
     "wynik": "finalistka",
     "uczen": "Marta Janicka",
     "opiekun": "M. Sokołowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 254,
@@ -3807,7 +4060,8 @@
     "wynik": "finalista",
     "uczen": "Karol Kacprzak",
     "opiekun": "M. Sokołowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 255,
@@ -3822,7 +4076,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Łucja Łuszcz",
     "opiekun": "K. Węglicka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 256,
@@ -3837,7 +4092,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Marta Janicka",
     "opiekun": "M. Sokołowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 257,
@@ -3852,7 +4108,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Tomasz Petrzak",
     "opiekun": "M. Boryczka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 258,
@@ -3867,7 +4124,8 @@
     "wynik": "I miejsce",
     "uczen": "Paulina Kras",
     "opiekun": "B. Czubak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 259,
@@ -3882,7 +4140,8 @@
     "wynik": "III miejsce",
     "uczen": "Monika Jurczyk",
     "opiekun": "B. Czubak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 260,
@@ -3897,7 +4156,8 @@
     "wynik": "Indeks",
     "uczen": "Hubert Głogowski",
     "opiekun": "B. Czubak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 261,
@@ -3912,7 +4172,8 @@
     "wynik": "IV miejsce drużynowo",
     "uczen": "Hubert Głogowski, Jan Kuna, Wojciech Burzyński, Damian Pietrucha, Natalia Stanios, Przemysław Wardzyński",
     "opiekun": "B. Czubak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 262,
@@ -3927,7 +4188,8 @@
     "wynik": "finał",
     "uczen": "Hubert Głogowski",
     "opiekun": "B. Czybak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 263,
@@ -3942,7 +4204,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Sebastian Walczak",
     "opiekun": "P. Darmas",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 264,
@@ -3957,7 +4220,8 @@
     "wynik": "III miejsce",
     "uczen": "Małgorzata Jopek",
     "opiekun": "M. Sokołowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 265,
@@ -3972,7 +4236,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Marta Druszcz",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 266,
@@ -3987,7 +4252,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Łukasz Dudek",
     "opiekun": "M. Chałubińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 267,
@@ -4002,7 +4268,8 @@
     "wynik": "",
     "uczen": "Paulina Marczykowska",
     "opiekun": "M. Chałubińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 268,
@@ -4017,7 +4284,8 @@
     "wynik": "",
     "uczen": "Mateusz Sar",
     "opiekun": "M. Sokołowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 269,
@@ -4032,7 +4300,8 @@
     "wynik": "I miejsce w regionie",
     "uczen": "Klasa 1 Bp",
     "opiekun": "Krystyna Węglicka",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 270,
@@ -4047,7 +4316,8 @@
     "wynik": "laureat - Indeks AGH",
     "uczen": "Słowiński Adrian",
     "opiekun": "Bożena Czubak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 271,
@@ -4062,7 +4332,8 @@
     "wynik": "Laureat – Indeks AGH",
     "uczen": "Natalia Kwiecień",
     "opiekun": "Bożena Czubak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 272,
@@ -4077,7 +4348,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Dominika Płachta",
     "opiekun": "Monika Karasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 273,
@@ -4092,7 +4364,8 @@
     "wynik": "Bardzo dobry",
     "uczen": "Mateusz Hernik",
     "opiekun": "M. Chałubińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 274,
@@ -4107,7 +4380,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Solecka",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 275,
@@ -4122,7 +4396,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Mariusz Piasecki",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 276,
@@ -4137,7 +4412,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Natalia Wilk",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 277,
@@ -4152,7 +4428,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Wiktoria Wdowiak",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 278,
@@ -4167,7 +4444,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Natalia Szczepaniak",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 279,
@@ -4182,7 +4460,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Dawid Pawlak",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 280,
@@ -4197,7 +4476,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Igor Bujnowicz",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 281,
@@ -4212,7 +4492,8 @@
     "wynik": "finalistka",
     "uczen": "Julia Wydra",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 282,
@@ -4227,7 +4508,8 @@
     "wynik": "III miejsce w województwie",
     "uczen": "Klasa 1c",
     "opiekun": "J. Woźniak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 283,
@@ -4242,7 +4524,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Karolina Szczepanik kl.1c",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 284,
@@ -4257,7 +4540,8 @@
     "wynik": "",
     "uczen": "Natalia Wilk kl. 2d",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 285,
@@ -4272,7 +4556,8 @@
     "wynik": "",
     "uczen": "Wiktoria Wdowiak kl. 3c",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 286,
@@ -4287,7 +4572,8 @@
     "wynik": "",
     "uczen": "Nikola Warchoł kl. 3c",
     "opiekun": "J. Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 287,
@@ -4302,7 +4588,8 @@
     "wynik": "",
     "uczen": "Mateusz Hernik kl. 3e",
     "opiekun": "W. Kieszkowski",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 288,
@@ -4317,7 +4604,8 @@
     "wynik": "laureat",
     "uczen": "Wojciech Burzyński",
     "opiekun": "M. Czarnota, P. Gigoń",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 289,
@@ -4332,7 +4620,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Katarzyna Wichucka,",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 290,
@@ -4347,7 +4636,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Marek Wiśniewski,",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 291,
@@ -4362,7 +4652,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Tomasz Stróż,",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 292,
@@ -4377,7 +4668,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Krystian Jakubczyk,",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 293,
@@ -4392,7 +4684,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Paweł Mironiak,",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 294,
@@ -4407,7 +4700,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Joanna Tyśkiewicz",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 295,
@@ -4422,7 +4716,8 @@
     "wynik": "Laureatka I-go miejsca",
     "uczen": "Daria Pałgan",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 296,
@@ -4437,7 +4732,8 @@
     "wynik": "Laureat",
     "uczen": "Igor Faliszewski",
     "opiekun": "M. Czarnota, P. Gigoń",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 297,
@@ -4452,7 +4748,8 @@
     "wynik": "finalistka",
     "uczen": "Jagoda Borodziuk",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 298,
@@ -4467,7 +4764,8 @@
     "wynik": "finalista",
     "uczen": "Rafał Harenza",
     "opiekun": "M. Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 299,
@@ -4482,7 +4780,8 @@
     "wynik": "I miejsce",
     "uczen": "Bartosz Rylski",
     "opiekun": "K. Kwiecień",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 300,
@@ -4497,7 +4796,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Zuzanna Murdza",
     "opiekun": "Magdalena Starzyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 301,
@@ -4512,7 +4812,8 @@
     "wynik": "II miejsce etap rejonowy",
     "uczen": "Anna Kowalska",
     "opiekun": "Magdalena Starzyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 302,
@@ -4527,7 +4828,8 @@
     "wynik": "II miejsce etap rejonowy",
     "uczen": "Jakub Klimek",
     "opiekun": "Justyna Baćmaga",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 303,
@@ -4542,7 +4844,8 @@
     "wynik": "III miejsce etap rejonowy",
     "uczen": "Marta Górska",
     "opiekun": "Justyna Baćmaga",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 304,
@@ -4557,7 +4860,8 @@
     "wynik": "laureat",
     "uczen": "Karolina Sowińska",
     "opiekun": "Małgorzata Grzeszczyk-Wronka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 305,
@@ -4572,7 +4876,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Patrycja Bykowska",
     "opiekun": "Agnieszka Miciak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 306,
@@ -4587,7 +4892,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Zuzanna Kolasa",
     "opiekun": "Agnieszka Miciak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 307,
@@ -4602,7 +4908,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Marta Panek",
     "opiekun": "Agnieszka Miciak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 308,
@@ -4617,7 +4924,8 @@
     "wynik": "laureat",
     "uczen": "Sebastian Walczak",
     "opiekun": "Patrycja Lizak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 309,
@@ -4632,7 +4940,8 @@
     "wynik": "III miejsce",
     "uczen": "Maksymilian Gront, Wiktor Pająk, Szczepan Winiarski",
     "opiekun": "Patrycja Lizak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 310,
@@ -4647,7 +4956,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Bartosz Utkowski",
     "opiekun": "Marta Kramek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 311,
@@ -4662,7 +4972,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Jakub Adamczyk",
     "opiekun": "Marta Kramek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 312,
@@ -4677,7 +4988,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Nikola Dujka",
     "opiekun": "Marta Kramek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 313,
@@ -4692,7 +5004,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Natalia Szczepaniak",
     "opiekun": "Marta Kramek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 314,
@@ -4707,7 +5020,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Anna Kolanowska",
     "opiekun": "Marta Kramek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 315,
@@ -4722,7 +5036,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Antonina Cibor",
     "opiekun": "Marta Kramek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 316,
@@ -4737,7 +5052,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Jakub Leśniewski",
     "opiekun": "Marta Kramek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 317,
@@ -4752,7 +5068,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Wiktoria Wójcik",
     "opiekun": "Marta Kramek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 318,
@@ -4767,7 +5084,8 @@
     "wynik": "IV miejsce w et. diecezjalnym",
     "uczen": "Anna Wydra",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 319,
@@ -4782,7 +5100,8 @@
     "wynik": "finalista",
     "uczen": "Marek Molenda",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 320,
@@ -4797,7 +5116,8 @@
     "wynik": "VI miejsce w et. diecezjalnym",
     "uczen": "Karolina Kołtuniak",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 321,
@@ -4812,7 +5132,8 @@
     "wynik": "finalista",
     "uczen": "Tomasz Sar",
     "opiekun": "Małgorzata Sar, ks. Sławomir Molendowski",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 322,
@@ -4827,7 +5148,8 @@
     "wynik": "wyróżnienie w etapie diecezjalnym",
     "uczen": "Aleksandra Tomczyk",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 323,
@@ -4842,7 +5164,8 @@
     "wynik": "finalistka",
     "uczen": "Wiktoria Nowicka",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 324,
@@ -4857,7 +5180,8 @@
     "wynik": "finalistka",
     "uczen": "Kamila Majchrzak",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 325,
@@ -4872,7 +5196,8 @@
     "wynik": "finalista",
     "uczen": "Tomasz Sar",
     "opiekun": "Małgorzata Sar, ks. Sławomir Molendowski",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 326,
@@ -4887,7 +5212,8 @@
     "wynik": "wyróżnienie w etapie diecezjalnym (IV miejsce)",
     "uczen": "Wiktoria Wachowicz",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 327,
@@ -4902,7 +5228,8 @@
     "wynik": "finalista",
     "uczen": "Martyna Czachurska",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 328,
@@ -4917,7 +5244,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Aleksandra Wesołowska",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 329,
@@ -4932,7 +5260,8 @@
     "wynik": "I miejsce w etapie regionalnym",
     "uczen": "Kinga Plewińska",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 330,
@@ -4947,7 +5276,8 @@
     "wynik": "finalistka",
     "uczen": "Kinga Plewińska",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 331,
@@ -4962,7 +5292,8 @@
     "wynik": "finalista",
     "uczen": "Tomasz Sar",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 332,
@@ -4977,7 +5308,8 @@
     "wynik": "I miejsce w etapie regionalnym",
     "uczen": "Klaudia Jakubczyk",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 333,
@@ -4992,7 +5324,8 @@
     "wynik": "II miejsce w etapie regionalnym",
     "uczen": "Kinga Plewińska",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 334,
@@ -5007,7 +5340,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Anna Tomczyk",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 335,
@@ -5022,7 +5356,8 @@
     "wynik": "Wyróżnienie w etapie diecezjalnym",
     "uczen": "Bartłomiej Kwiatkowski",
     "opiekun": "Ks. Sławomir Molendowski",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 336,
@@ -5037,7 +5372,8 @@
     "wynik": "2 miejsce",
     "uczen": "Natalia Brodowska",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 337,
@@ -5052,7 +5388,8 @@
     "wynik": "5 miejsce",
     "uczen": "Gabriela Lipiec",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 338,
@@ -5067,7 +5404,8 @@
     "wynik": "III miejsce w etapie diecezjalnym",
     "uczen": "Gabriela Lipiec",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 339,
@@ -5082,7 +5420,8 @@
     "wynik": "V miejsce w etapie diecezjalnym",
     "uczen": "Anna Tomczyk",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 340,
@@ -5097,7 +5436,8 @@
     "wynik": "3 miejsce",
     "uczen": "Gabriela Lipiec",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 341,
@@ -5112,7 +5452,8 @@
     "wynik": "3 miejsce",
     "uczen": "Gabriela Lipiec",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 342,
@@ -5127,7 +5468,8 @@
     "wynik": "2 miejsce w etapie regionalnym (pieśń)",
     "uczen": "Maja Piskorz",
     "opiekun": "Ks. Stanisław Piekielnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 343,
@@ -5142,7 +5484,8 @@
     "wynik": "1 miejsce w etapie regionalnym (poezja)",
     "uczen": "Zuzanna Zięba",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 344,
@@ -5157,7 +5500,8 @@
     "wynik": "wyróżnienie w etapie diecezjalnym",
     "uczen": "Piotr Kicior",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 345,
@@ -5172,7 +5516,8 @@
     "wynik": "4 miejsce w finale",
     "uczen": "Karolina Szwagierczak",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 346,
@@ -5187,7 +5532,8 @@
     "wynik": "II miejsce w et. reg. (pieśń patriotyczna)",
     "uczen": "Klaudia Warda",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 347,
@@ -5202,7 +5548,8 @@
     "wynik": "III miejsce w et. reg. (pieśń patriotyczna)",
     "uczen": "Julia Fiedorow",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 348,
@@ -5217,7 +5564,8 @@
     "wynik": "III miejsce w et. reg. (poezja patriotyczna)",
     "uczen": "Wojciech Pacek",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 349,
@@ -5232,7 +5580,8 @@
     "wynik": "III miejsce w et. reg. (poezja patriotyczna)",
     "uczen": "Maria Tomczyk",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 350,
@@ -5247,7 +5596,8 @@
     "wynik": "wyróżnienie w et. reg. (poezja patriotyczna)",
     "uczen": "Zuzanna Zięba",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 351,
@@ -5262,7 +5612,8 @@
     "wynik": "finalista",
     "uczen": "Piotr Pawelczyk",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 352,
@@ -5277,7 +5628,8 @@
     "wynik": "finalistka",
     "uczen": "Karolina Szwagierczak",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 353,
@@ -5292,7 +5644,8 @@
     "wynik": "I miejsce w et. reg. (pieśn patriotyczna)",
     "uczen": "Klaudia Warda",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 354,
@@ -5307,7 +5660,8 @@
     "wynik": "I miejsce w et. reg. (poezja patriotyczna)",
     "uczen": "Zofia Tatarek",
     "opiekun": "Marta Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 355,
@@ -5322,7 +5676,8 @@
     "wynik": "I miejsce",
     "uczen": "Joanna Bujak, Klaudia Banaszczyk, Natalia Gospodarczyk, Katarzyna Izbicka, Marta Grzelak, Beata Warchoł, Natalia Piorunowska, Karina Gawor, Karolina Kaca, Paulina Dobrzańska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 356,
@@ -5337,7 +5692,8 @@
     "wynik": "III miejsce",
     "uczen": "Eliza Sztyler, Anna Trybuła, Karolina Kołtuniak, Natalia Stanios, Marta Wolska, Klaudia Serafin, Kinga Stawińska, Magdalena Król, Katarzyna Sztyler, Katarzyna Grotek, Izabela Włodarczyk, Katarzyna Prygiel, Izabela Smolińska, Dominika Kosiec, Paulina Kwapisiewicz, Joanna Nowak",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 357,
@@ -5352,7 +5708,8 @@
     "wynik": "I miejsce",
     "uczen": "Błażej Mastalerz, Patryk Kazała, Cezary Kudła, Hubert Głogowski, Konrad Cichawa, Mateusz Mizerski, Mateusz Retmańczyk, Patryk Drabik, Filip Piszczek, Jakub Lis, Konrad Streicher, Piotr Nawrot, Aleksander Włodek, Szymon Witkowski",
     "opiekun": "Marcin Leszczyński",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 358,
@@ -5367,7 +5724,8 @@
     "wynik": "III miejsce",
     "uczen": "Barbara Kowalska, Beata Warchoł, Patrycja Wasik, Natalia Piorunowska,",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 359,
@@ -5382,7 +5740,8 @@
     "wynik": "I miejsce",
     "uczen": "Małgorzata Gębczyk, Wiktoria Kalisiak, Izabela Smolińska, Klaudia Śliwiak",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 360,
@@ -5397,7 +5756,8 @@
     "wynik": "III miejsce w układzie dwójek",
     "uczen": "Anna Jopek, Gabriela Pyrka",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 361,
@@ -5412,7 +5772,8 @@
     "wynik": "I miejsce",
     "uczen": "Beata Warchoł, Natalia Piorunowska, Natalia Piwowarska, Urszula Pawłowska, Katarzyna Izbicka, Joanna Bujak, Julita Molenda, Katarzyna Grotek, Natalia Czajka, Kiara Rutkowska, Aleksandra Gawełek, Izabela Włodarczyk, Marta Wolska, Klaudia Górka, Karina Gawor",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 362,
@@ -5427,7 +5788,8 @@
     "wynik": "I miejsce",
     "uczen": "Katarzyna Izbicka",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 363,
@@ -5442,7 +5804,8 @@
     "wynik": "III miejsce",
     "uczen": "Joanna Bujak",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 364,
@@ -5457,7 +5820,8 @@
     "wynik": "II miejsce",
     "uczen": "Beata Warchoł, Natalia Piorunowska, Natalia Piwowarska, Urszula Pawłowska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 365,
@@ -5472,7 +5836,8 @@
     "wynik": "I miejsce",
     "uczen": "Julita Molenda",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 366,
@@ -5487,7 +5852,8 @@
     "wynik": "III miejsce",
     "uczen": "Katarzyna Grotek",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 367,
@@ -5502,7 +5868,8 @@
     "wynik": "II miejsce",
     "uczen": "Natalia Piwowarska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 368,
@@ -5517,7 +5884,8 @@
     "wynik": "I miejsce",
     "uczen": "Katarzyna Grotek",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 369,
@@ -5532,7 +5900,8 @@
     "wynik": "I miejsce",
     "uczen": "Weronika Posuniak",
     "opiekun": "Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 370,
@@ -5547,7 +5916,8 @@
     "wynik": "III miejsce",
     "uczen": "Milena Barszcz",
     "opiekun": "Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 371,
@@ -5562,7 +5932,8 @@
     "wynik": "III miejsce",
     "uczen": "Agnieszka Mikocka, Aleksandra Stojek, Paulina Kundys, Karolina Bartos, Katarzyna Grotek, Katarzyna Prygiel, Izabela Smolińska, Marta Wolska, Izabela Włodarczyk, Julita Molenda, Paulina Kwapisiewicz, Dominika Kosiec, Natalia Stanios, Karolina Kołtuniak",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 372,
@@ -5577,7 +5948,8 @@
     "wynik": "II miejsce",
     "uczen": "Beata Warchoł, Natalia Piorunowska, Paulina Dobrzańska, Karolina Kaca, Joanna Bujak, Karina Gawor, Agnieszka Mikocka, Angelika Lament",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 373,
@@ -5592,7 +5964,8 @@
     "wynik": "III miejsce",
     "uczen": "Paulina Kwapisiewicz, Julita Molenda, Karina Gawor, Marika Kaczkowska, Kiara Rutkowska, Klaudia Serafin, Karolina Pawlak, Dominika Kosiec, Angelika Lis, Milena Zięba, Natalia Sadza, Wiktoria Boruch",
     "opiekun": "Katarzyna Marciniak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 374,
@@ -5607,7 +5980,8 @@
     "wynik": "III miejsce",
     "uczen": "Wiktor Witkowski, Hubert Głogowski, Szymon Tyka, Wojciech Chęciński, Mikołaj Binkowski, Jakub Cuchnowski, Dominik Kędzierski, Kacper Leszczyński, Aleksander Łapecki, Dawid Suwała, Eryk Waniek, Mateusz Zgorzelak",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 375,
@@ -5622,7 +5996,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Ćwiklak, Dominika Kosiec, Katarzyna Grotek, Katarzyna Prygiel, Paulina Kwapisiewicz, Marta Wolska, Ada Kilianek, Julita Molenda, Izabela Włodarczyk",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 376,
@@ -5637,7 +6012,8 @@
     "wynik": "III miejsce",
     "uczen": "Karolina Bartos, Kamila Borowicz, Joanna Bujak, Aleksandra Gawełek, Katarzyna Grotek, Julia Kurkiewicz, Paulina Kwapisiewicz, Andżelika Lament, Agnieszka Mikocka, Natalia Moczko, Julita Molenda, Urszula Pawłowska, Weronika Wąsik, Izabela Włodarczyk, Milena Zięba, Kacper Leszczyński",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 377,
@@ -5652,7 +6028,8 @@
     "wynik": "II miejsce",
     "uczen": "Wiktoria Kalisiak, Klaudia Śliwiak, Aleksandra Kuśnierska",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 378,
@@ -5667,7 +6044,8 @@
     "wynik": "II miejsce",
     "uczen": "Izabela Włodarczyk, Katarzyna Grotek, Joanna Bujak, Katarzyna Bochniak, Kamila Dusza, Izabela Konobrodzka, Paulina Kwapisiewicz, Andżelika Lament, Wiktoria Łabuszewska, Karolina Machnio",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 379,
@@ -5682,7 +6060,8 @@
     "wynik": "III miejsce",
     "uczen": "Katarzyna Grotek, Marta Wolska, Izabela Włodarczyk, Izabela Smolińska, Dominika Kosiec, Paulina Kwapisiewicz, Julita Molenda, Joanna Nowak, Aleksandra Paciorek, Klaudia Turek, Zuzanna Szlachcińska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 380,
@@ -5697,7 +6076,8 @@
     "wynik": "II miejsce",
     "uczen": "Zuzanna Sońta, Izabela Konobrodzka, Natalia Szymańska, Katarzyna Bochniak, Aleksandra Paciorek, Klaudia Wrześniewska, Julia Kurkiewicz, Paulina Kwapisiewicz, Katarzyna Prygiel, Dominika Kosiec",
     "opiekun": "Katarzyna Marciniak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 381,
@@ -5712,7 +6092,8 @@
     "wynik": "III miejsce",
     "uczen": "Zuzanna Kosiec, Julia Ćwiklak, Natalia Rykowska, Ilona Banaszkiewicz, Aleksandra Chrzanowska, Natalia Ginał, Ada Kilianek, Marta Mantorska, Katarzyna Grotek, Katarzyna Prygiel, Izabela Włodarczyk, Marta Wolska, Julita Molenda, Paulina Kwapisiewicz, Dominika Kosiec",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 382,
@@ -5727,7 +6108,8 @@
     "wynik": "II miejsce",
     "uczen": "Mikołaj Binkowski, Hubert Bujak, Jan Jaśkiewicz, Dominik Kędziersk,i Kacper Leszczyński, Filip Mucha, Mikołaj Redestowicz, Dawid Suwała, Eryk Waniek, Mateusz Zgorzelak, Jakub Żurowski",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 383,
@@ -5742,7 +6124,8 @@
     "wynik": "II miejsce drużynowo dziewcząt",
     "uczen": "Małgorzata Stanios, Dorota Woźniak, Klaudia Śliwak, Wiktoria Kalisiak",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 384,
@@ -5757,7 +6140,8 @@
     "wynik": "II miejsce drużynowo chłopców",
     "uczen": "Jakub Nachyła, Jakub Żurawski, Kacper Biernat, Łukasz Gębczyk",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 385,
@@ -5772,7 +6156,8 @@
     "wynik": "II miejsce",
     "uczen": "Klaudia Śliwak",
     "opiekun": "Maria Tyczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 386,
@@ -5787,7 +6172,8 @@
     "wynik": "III miejsce",
     "uczen": "Wiktoria Kalisiak",
     "opiekun": "Maria Tyczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 387,
@@ -5802,7 +6188,8 @@
     "wynik": "I miejsce",
     "uczen": "Łukasz Gębczyk",
     "opiekun": "Maria Tyczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 388,
@@ -5817,7 +6204,8 @@
     "wynik": "II miejsce drużynowo",
     "uczen": "Anna Karaś, Wiktoria Łabuszewska, Natalia Kamińska, Natalia Ginał, Izabela Włodarczyk, Joanna Bujak, Paulina Kwapisiewicz, Katarzyna Prygiel, Ilona Banaszkiewicz, Katarzyna Bochniak, Iga Bornikowska, Aleksandra Chrzanowska, Sabina Fogiel, Aleksandra Gawełek, Eliza Kamińska, Ada Kilianek, Angelika Lament, Julia Kurkiewicz, Natalia Rykowska, Zuzanna Sztyber, Izabela Konobrocka, Mikołaj Firlej, Antoni Kwietniewski",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 389,
@@ -5832,7 +6220,8 @@
     "wynik": "II miejsce",
     "uczen": "Anna Karaś, Wiktoria Łabuszewska, Natalia Kamińska, Izabela Włodarczyk",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 390,
@@ -5847,7 +6236,8 @@
     "wynik": "II miejsce",
     "uczen": "Anna Karaś",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 391,
@@ -5862,7 +6252,8 @@
     "wynik": "II miejsce",
     "uczen": "Izabela Włodarczyk",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 392,
@@ -5877,7 +6268,8 @@
     "wynik": "III miejsce",
     "uczen": "Natalia Kamińska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 393,
@@ -5892,7 +6284,8 @@
     "wynik": "I miejsce",
     "uczen": "Natalia Ginał",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 394,
@@ -5907,7 +6300,8 @@
     "wynik": "II miejsce",
     "uczen": "Wiktoria Łabuszewska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 395,
@@ -5922,7 +6316,8 @@
     "wynik": "III miejsce",
     "uczen": "Joanna Bujak",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 396,
@@ -5937,7 +6332,8 @@
     "wynik": "II miejsce",
     "uczen": "Antoni Kwietniewski",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 397,
@@ -5952,7 +6348,8 @@
     "wynik": "III miejsce",
     "uczen": "Paulina Kwapisiewicz",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 398,
@@ -5967,7 +6364,8 @@
     "wynik": "I miejsce",
     "uczen": "Mikołaj Firlej",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 399,
@@ -5982,7 +6380,8 @@
     "wynik": "II miejsce",
     "uczen": "Katarzyna Prygiel",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 400,
@@ -5997,7 +6396,8 @@
     "wynik": "III miejsce",
     "uczen": "Kacper Biernat, Jakub Szymański, Dawid Małek, Filip Zaremba, Dominik Budzyński",
     "opiekun": "Katarzyna Marciniak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 401,
@@ -6012,7 +6412,8 @@
     "wynik": "II miejsce indywidualnie",
     "uczen": "Weronika Posuniak",
     "opiekun": "Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 402,
@@ -6027,7 +6428,8 @@
     "wynik": "II miejsce drużynowo",
     "uczen": "Weronika Posuniak, Marika Tokarska, Michał Góra",
     "opiekun": "Piotr Duliniec",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 403,
@@ -6042,7 +6444,8 @@
     "wynik": "III miejsce",
     "uczen": "Katarzyna Bochniak, Kamila Dusza, Gabriela Goździk, Andżelika Górnik, Izabela Konobrodzka, Andżelika Lament, Wiktoria Łabuszewska, Klaudia Markowska, Aleksandra Paciorek, Aleksandra Wolszczak, Aleksandra Kwiecień",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 404,
@@ -6057,7 +6460,8 @@
     "wynik": "II miejsce",
     "uczen": "Agnieszka Barcikowska, Patrycja Bykowska, Kamila Dusza, Izabela Konobrodzka, Aleksandra Kwiecień, Andżelika Lament, Alicja Mirowska, Aleksandra Paciorek, Zuzanna Szlachcińska, Klaudia Turek",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 405,
@@ -6072,7 +6476,8 @@
     "wynik": "II miejsce",
     "uczen": "Ilona Banaszkiewicz, Izabela Konobrodzka, Julia Kurkiewicz, Aleksandra Paciorek, Natalia Sadza, Zuzanna Sońta, Natalia Szymańska, Milena Zięba",
     "opiekun": "Katarzyna Marciniak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 406,
@@ -6087,7 +6492,8 @@
     "wynik": "II miejsce",
     "uczen": "Ilona Banaszkiewicz, Oliwia Baran, Aleksandra Chrzanowska, Julia Ćwiklak, Natalia Ginał, Klaudia Jakubczyk, Ada Kiljanek, Paulina Kłys, Izabela Konobrodzka, Zuzanna Kosiec, Wiktoria Kościów, Aleksandra Kuśnierska, Aleksandra Leo, Magdalena Mierzwa, Natalia Rykowska, Zuzanna Szlachcińska, Aleksandra Wolszczak, Milena Zięba, Oliwia Ćwiklak",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 407,
@@ -6102,7 +6508,8 @@
     "wynik": "I miejsce",
     "uczen": "Kacper Biernat, Mikołaj Firlej, Michał Frąk, Kacper Górnik, Dawid Kaleta, Jakub Kamiński, Filip Krajewski, Antoni Kwietniewski, Dominik Kędzierski, Bartłomiej Maciejewski",
     "opiekun": "Marcin Leszczyński",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 408,
@@ -6117,7 +6524,8 @@
     "wynik": "I miejsce",
     "uczen": "Kamila Brzeźniak, Anna Gwóźdź, Weronika Maniak, Iga Ozimska",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 409,
@@ -6132,7 +6540,8 @@
     "wynik": "II miejsce",
     "uczen": "Michał Barański, Kacper Biernat, Hubert Bujak, Jakub Żurowski",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 410,
@@ -6147,7 +6556,8 @@
     "wynik": "I miejsce",
     "uczen": "Kacper Biernat, Mateusz Kasprzak, Jakub Nachyła, Jakub Żurowski",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 411,
@@ -6162,7 +6572,8 @@
     "wynik": "I miejsce",
     "uczen": "Mateusz Kasprzak",
     "opiekun": "Maria Tyczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 412,
@@ -6177,7 +6588,8 @@
     "wynik": "III miejsce",
     "uczen": "Kacper Biernat",
     "opiekun": "Maria Tyczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 413,
@@ -6192,7 +6604,8 @@
     "wynik": "I miejsce",
     "uczen": "Dagmara Kucharska, Klaudia Makowska, Natalia Więcław, Dorota Woźniak",
     "opiekun": "Maria Tyczyńska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 414,
@@ -6207,7 +6620,8 @@
     "wynik": "I miejsce",
     "uczen": "Dagmara Kucharska",
     "opiekun": "Maria Tyczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 415,
@@ -6222,7 +6636,8 @@
     "wynik": "III miejsce",
     "uczen": "Katarzyna Bochniak, Kamila Dusza, Klaudia Gos, Gabriela Goździk, Sara Jurczak, Anna Karaś, Izabela Konobrodzka, Wiktoria Łabuszewska, Natalia Łakomiec, Karolina Machnio, Klaudia Makowska, Weronika Mazurek, Ola Surowiecka, Zuzanna Szlachcińska, Weronika Zajączkowska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 416,
@@ -6237,7 +6652,8 @@
     "wynik": "II miejsce",
     "uczen": "Klaudia Gos, Anna Karaś, Izabela Konobrodzka, Ola Surowiecka",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 417,
@@ -6252,7 +6668,8 @@
     "wynik": "I miejsce",
     "uczen": "Ola Surowiecka",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 418,
@@ -6267,7 +6684,8 @@
     "wynik": "III miejsce",
     "uczen": "Anna Karaś",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 419,
@@ -6282,7 +6700,8 @@
     "wynik": "II miejsce",
     "uczen": "Aleks Wątorski",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 420,
@@ -6297,7 +6716,8 @@
     "wynik": "II miejsce",
     "uczen": "Jakub Żurowski",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 421,
@@ -6312,7 +6732,8 @@
     "wynik": "II miejsce",
     "uczen": "Michał Barański, Kacper Biernat, Mikołaj Bińkowski, Hubert Bujak, Krystian Jakubczyk, Jan Jaśkiewicz, Dominik Kędzierski, Filip Mucha, Jan Pawluk, Mikołaj Redestowicz, Dawid Suwała, Jakub Żurowski",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 422,
@@ -6327,7 +6748,8 @@
     "wynik": "III miejsce",
     "uczen": "Katarzyna Bochniak, Kamila Dusza, Gabriela Goździk, Natalia Klimek, Izabela Konobrodzka, Klaudia Makowska, Julia Michalak, Aleksandra Paciorek, Ola Surowiecka, Natalia Zych",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 423,
@@ -6342,7 +6764,8 @@
     "wynik": "I miejsce",
     "uczen": "Katarzyna Bochniak, Ola Górka, Magda Kolanowska, Izabela Konobrodzka, Kornelia Maleta, Aleksandra Paciorek, Klaudia Piszczek, Zuzanna Romanowicz, Zuzanna Sońta, Natalia Szymańska",
     "opiekun": "Katarzyna Marciniak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 424,
@@ -6357,7 +6780,8 @@
     "wynik": "III miejsce",
     "uczen": "Izabela Konobrodzka",
     "opiekun": "Maria Boksz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 425,
@@ -6372,7 +6796,8 @@
     "wynik": "III miejsce",
     "uczen": "Dominika Kornatowska, Zuzanna Marcula, Aleksandra Motyka, Klaudia Piszczek, Katarzyna Popiel, Zuzanna Romanowicz, Izabela Urban",
     "opiekun": "Justyna Prygiel",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 426,
@@ -6387,7 +6812,8 @@
     "wynik": "II miejsce",
     "uczen": "Dominika Bakuła, Barbara Bożewicz, Natalia Frączek, Amelia Furga, Julia Janus, Wiktoria Kucharska, Maja Malec, Weronika Ormiańska, Zuzanna Staniewska, Izabela Urban",
     "opiekun": "Justyna Prygiel",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 427,
@@ -6402,7 +6828,8 @@
     "wynik": "II miejsce",
     "uczen": "Tymon Bugajski, Tomasz Głogowski, Filip Jabłoński, Kacper Kawałek, Jakub Kotwica, Maciej Otrębski, Wiktor Pająk, Jakub Pasik, Mikołaj Siara, Bartosz Sońta, Maksym Sułecki, Michał Wajs, Sebastian Waleski, Bartłomiej Węgliński, Stanisław Więcaszek",
     "opiekun": "Rafał Banaczek",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 428,
@@ -6417,7 +6844,8 @@
     "wynik": "I miejsce",
     "uczen": "Agata Alberska, Ola Górka, Magda Kolanowska, Kornelia Maleta, Zofia Minda, Diana Mleczkowska, Zuzanna Murdza, Dorota Pietrzyk, Klaudia Piszczek, Zuzanna Romanowicz, Wiktoria Śmigarzewska, Julia Życka",
     "opiekun": "Katarzyna Marciniak",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 429,
@@ -6432,7 +6860,8 @@
     "wynik": "II miejsce",
     "uczen": "Bartosz Węgliński",
     "opiekun": "Norbert Kobacki",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 430,
@@ -6447,7 +6876,8 @@
     "wynik": "I miejsce",
     "uczen": "Zuzanna Staniewska",
     "opiekun": "Norbert Kobacki",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 431,
@@ -6462,7 +6892,8 @@
     "wynik": "II miejsce",
     "uczen": "Tomasz Głogowski, Jakub Pasik, Bartosz Sońta, Stanisław Więcaszek",
     "opiekun": "Norbert Kobacki",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 432,
@@ -6477,7 +6908,8 @@
     "wynik": "I miejsce",
     "uczen": "Filip Kruk",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 433,
@@ -6492,7 +6924,8 @@
     "wynik": "III miejsce",
     "uczen": "Kacper Niewiadomski",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 434,
@@ -6507,7 +6940,8 @@
     "wynik": "II miejsce",
     "uczen": "Maksymilian Szachoń",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 435,
@@ -6522,7 +6956,8 @@
     "wynik": "II miejsce",
     "uczen": "Zuzanna Staniewska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 436,
@@ -6537,7 +6972,8 @@
     "wynik": "II miesjce",
     "uczen": "Dominika Kalita",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 437,
@@ -6552,7 +6988,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Łabędzka, Amelia Karbownik, Aleksandra Kwietniewska, Natalia Kutkiewicz, Kornelia Maleta, Julia Obrzydzińska, Weronika Ormiańska, Klaudia Piszczek, Zuzanna Romanowicz, Julia Smolińska, Zuzanna Staniewska",
     "opiekun": "Rafał Banaczek",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 438,
@@ -6567,7 +7004,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Łabędzka, Amelia Karbownik, Aleksandra Kwietniewska, Natalia Kutkiewicz, Kornelia Maleta, Julia Obrzydzińska, Weronika Ormiańska, Klaudia Piszczek, Zuzanna Romanowicz, Julia Smolińska, Zuzanna Staniewska",
     "opiekun": "Rafał Banaczek",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 439,
@@ -6582,7 +7020,8 @@
     "wynik": "III miejsce",
     "uczen": "Tymon Bugalski, Tomasz Głogowski, Filip Jabłoński, Kacper Kawałek, Jakub Kotwica, Natalia Kutkiewicz, Kornelia Maleta, Maciej Otrębski, Jakub Pasik, Wiktor Pająk, Klaudia Piszczek, Mikołaj Siara, Julia Smolińska, Bartosz Sońta, Maksym Sułecki, Zuzanna Staniewska, Michał Wajs, Sebastian Waleski, Bartosz Węgliński, Stanisław Więcaszek",
     "opiekun": "Rafał Banaczek",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 440,
@@ -6597,7 +7036,8 @@
     "wynik": "I miejsce",
     "uczen": "Nadia Dziubińska, Natalia Fokt, Julia Jagiełło, Maja Kacprzak, Kinga Kołodziejczyk, Zuzanna Staniewska",
     "opiekun": "Justyna Prygiel",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 441,
@@ -6612,7 +7052,8 @@
     "wynik": "III miejsce",
     "uczen": "Tymon Bugajski, Bartosz Gostyński, Jakub Grzyb, Filip Jabłoński, Aleksander Jaśkiewicz, Kacper Kawałek, Jakub Kotwica, Maciej Otrębski, Wiktor Pająk, Mikołaj Siara, Maksym Sułecki, Michał Wajs, Bartłomiej Węgliński, Stanisław Więcaszek",
     "opiekun": "Rafał Banaczek",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 442,
@@ -6627,7 +7068,8 @@
     "wynik": "II miejsce",
     "uczen": "Jakub Adamczyk, Michał Furciński, Mikołaj Furciński, Stanisław Więcaszek",
     "opiekun": "Norbert Kobacki",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 443,
@@ -6642,7 +7084,8 @@
     "wynik": "I miejsce",
     "uczen": "Michał Furciński, Mikołaj Furciński, Adam Jastrząb, Jakub Jastrząb, Kacper Kawałek, Natan Kwiatkowski, Maciej Otrębski, Filip Sobolewski, Jakub Sobolewski, Jakub Ziółkowski",
     "opiekun": "Jakub Nowakowski",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 444,
@@ -6657,7 +7100,8 @@
     "wynik": "III miejsce",
     "uczen": "Agata Alberska, Alicja Cholewińska, Matylda Czachor, Dominika Kalita, Joanna Łoś, Zofia Minda, Zuzanna Murdza, Oliwia Rajkowska, Adrianna Rybińska, Natalia Skrok, Karina Winnicka, Alicja Wiszniowska, Sara Włodarczyk",
     "opiekun": "Jakub Nowakowski",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 445,
@@ -6672,7 +7116,8 @@
     "wynik": "I miejsce",
     "uczen": "Kacper Klonowski, Michał Prokopczyk, Bartosz Węgliński, Marek Ziębakowski",
     "opiekun": "Norbert Kobacki",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 446,
@@ -6687,7 +7132,8 @@
     "wynik": "I miejsce",
     "uczen": "Hanna Domańska, Natalia Fokt, Zuzanna Staniewska, Julia Walczak",
     "opiekun": "Norbert Kobacki",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 447,
@@ -6702,7 +7148,8 @@
     "wynik": "III miejsce",
     "uczen": "Witold Bylica",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 448,
@@ -6717,7 +7164,8 @@
     "wynik": "I miejsce",
     "uczen": "Filip Kruk",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 449,
@@ -6732,7 +7180,8 @@
     "wynik": "II miejsce",
     "uczen": "Wojciech Lubasiński",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 450,
@@ -6747,7 +7196,8 @@
     "wynik": "I miejsce",
     "uczen": "Wiktor Porochenko",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 451,
@@ -6762,7 +7212,8 @@
     "wynik": "III miejsce",
     "uczen": "Barbara Bożewicz",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 452,
@@ -6777,7 +7228,8 @@
     "wynik": "II miejsce",
     "uczen": "Aleksandra Bukowska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 453,
@@ -6792,7 +7244,8 @@
     "wynik": "III miejsce",
     "uczen": "Dominika Kalita",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 454,
@@ -6807,7 +7260,8 @@
     "wynik": "III miejsce",
     "uczen": "Emilia Dużdżel",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 455,
@@ -6822,7 +7276,8 @@
     "wynik": "II miejsce",
     "uczen": "Maria Kalita",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 456,
@@ -6837,7 +7292,8 @@
     "wynik": "II miejsce",
     "uczen": "Maja Kacprzak",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 457,
@@ -6852,7 +7308,8 @@
     "wynik": "I miejsce",
     "uczen": "Adrianna Rybińska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 458,
@@ -6867,7 +7324,8 @@
     "wynik": "II miejsce",
     "uczen": "Zuzanna Staniewska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 459,
@@ -6882,7 +7340,8 @@
     "wynik": "I miejsce",
     "uczen": "Agata Alberska, Natalia Fokt, Katarzyna Ilczewska, Maria Jaworska, Maja Kacprzak, Amelia Karbownik, Julia Łabędzka, Julia Obrzydzińska, Weronika Ormiańska, Wiktoria Radomska, Oliwia Ratajczyk, Zuzanna Staniewska, Julia Stolarek",
     "opiekun": "Rafał Banaczek",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 460,
@@ -6897,7 +7356,8 @@
     "wynik": "I miejsce",
     "uczen": "Hanna Abramowicz, Magdalena Bujak, Aleksandra Bukowska, Pola Holewińska, Agata Kalicińska, Dominika Kalita, Nicole Malmon, Alicja Podlewska, Martyna Puton, Zofia Włodarczyk",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 461,
@@ -6912,7 +7372,8 @@
     "wynik": "II miejsce",
     "uczen": "Barbara Bożewicz, Natalia Fokt, Julia Jagiełło, Maja Kacprzak, Kinga Kołodziejczyk, Natalia Skrok, Zuzanna Staniewska",
     "opiekun": "Justyna Prygiel",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 462,
@@ -6927,7 +7388,8 @@
     "wynik": "III miejsce",
     "uczen": "Daria Adamkiewicz, Maria Bekier, Marika Cieślińska, Milena Cioć, Matylda Czachor, Dominika Kalita, Zofia Leszczyńska, Julia Łabędzka, Joanna Łoś, Zuzanna Murdza, Dorota Pietrzyk, Natalia Skrok, Wiktoria Śmigarzewska",
     "opiekun": "Jakub Nowakowski",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 463,
@@ -6942,7 +7404,8 @@
     "wynik": "I miejsce",
     "uczen": "Agata Alberska, Barbara Bożewicz, Wiktoria Bździkot, Alicja Cholewińska, Maya Kołodziejczyk, Nelly Kołodziejczyk, Julia Kozieł, Dominika Kalita, Julia Łabędzka, Antonina Patkowska, Adrianna Rybińska, Natalia Skrok, Amelia Strzałkowska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 464,
@@ -6957,7 +7420,8 @@
     "wynik": "II miejsce",
     "uczen": "Daria Adamkiewicz, Agata Alberska, Maria Bekier, Marika Cieślińska, Natalia Fokt, Katarzyna Ilczewska, Maja Kacprzak, Julia Łabędzka, Oliwia Ratajczyk, Natalia Skrok, Weronika Sowa, Zuzanna Staniewska, Julia Stolarek",
     "opiekun": "Rafał Banaczek",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 465,
@@ -6972,7 +7436,8 @@
     "wynik": "III miejsce",
     "uczen": "Hanna Abramowicz, Aleksandra Bukowska, Paulina Chochoł, Agnieszka Gizińska, Hanna Gliszczyńska , Kacprzak Maja, Dominika Kalita, Nelly Kołodziejczyk, Maja Mechowska, Julia Nowak, Roksana Stasiak",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 466,
@@ -6987,7 +7452,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Błędowska, Paulina Chochoł, Hanna Domańska, Hanna Gliszczyńska, Julia Jagiełło, Dominika Kalita, Maria Kalita, Gabriela Kaca, Maja Kacprzak, Hanna Karkosa, Jagoda Krzemińska, Natasza Kwiecień, Olga Mazur, Antonina Patkowska, Gabrysia Piaseczna, Wiktoria Pora, Natalia Prorok, Oliwia Ratajczyk, Lena Skoczylas, Zuzanna Staniewska, Martyna Wachowicz, Anastazja Wiszniowska, Dominika Witkowska, Nina Włodarczyk",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 467,
@@ -7002,7 +7468,8 @@
     "wynik": "I miejsce",
     "uczen": "Maja Kacprzak",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 468,
@@ -7017,7 +7484,8 @@
     "wynik": "II miejsce",
     "uczen": "Nina Włodarczyk",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 469,
@@ -7032,7 +7500,8 @@
     "wynik": "II miejsce",
     "uczen": "Hanna Karkosa",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 470,
@@ -7047,7 +7516,8 @@
     "wynik": "III miejsce",
     "uczen": "Julia Jagiełło",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 471,
@@ -7062,7 +7532,8 @@
     "wynik": "III miejsce",
     "uczen": "Natasza Kwiecień",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 472,
@@ -7077,7 +7548,8 @@
     "wynik": "I miejsce",
     "uczen": "Jagoda Krzemińska",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 473,
@@ -7092,7 +7564,8 @@
     "wynik": "II miejsce",
     "uczen": "Dominika Kalita",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 474,
@@ -7107,7 +7580,8 @@
     "wynik": "I miejsce",
     "uczen": "Zuzanna Staniewska",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 475,
@@ -7122,7 +7596,8 @@
     "wynik": "II miejsce",
     "uczen": "Maria Kalita",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 476,
@@ -7137,7 +7612,8 @@
     "wynik": "III miejsce",
     "uczen": "Hanna Gliszczyńska, Maja Kacprzak, Zuzanna Staniewska, Julia Błędowska",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 477,
@@ -7152,7 +7628,8 @@
     "wynik": "III miejsce",
     "uczen": "Piotr Frączek, Jakub Holak, Szymon Jabłoński, Fiodor Kowalczyk, Szymon Michalec, Jakub Mizak, Igor Nitak, Rayan Obadi, Mariusz Piasecki, Wiktor Porochnenko, Wiktor Rydz, Jakub Wojtunik",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 478,
@@ -7167,7 +7644,8 @@
     "wynik": "I miejsce",
     "uczen": "Szymon Jabłoński",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 479,
@@ -7182,7 +7660,8 @@
     "wynik": "I miejsce",
     "uczen": "Mariusz Piasecki",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 480,
@@ -7197,7 +7676,8 @@
     "wynik": "I miejsce",
     "uczen": "Wiktor Porochnenko",
     "opiekun": "Agnieszka Płaskocińska, Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 481,
@@ -7212,7 +7692,8 @@
     "wynik": "I miejsce",
     "uczen": "Zuzanna Staniewska",
     "opiekun": "Norbert Kobacki",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 482,
@@ -7227,7 +7708,8 @@
     "wynik": "II miejsce",
     "uczen": "Marek Ziębakowski",
     "opiekun": "Norbert Kobacki",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 483,
@@ -7242,7 +7724,8 @@
     "wynik": "III miejsce",
     "uczen": "Mikołaj Bąk",
     "opiekun": "Norbert Kobacki",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 484,
@@ -7257,7 +7740,8 @@
     "wynik": "I miejsce",
     "uczen": "Wojciech Gibała, Kacper Klonowski, Mikołaj Bąk, Marek Ziębakowski",
     "opiekun": "Norbert Kobacki",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 485,
@@ -7272,7 +7756,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Walczak, Hanna Domańska, Zuzanna Staniewska",
     "opiekun": "Norbert Kobacki",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 486,
@@ -7287,7 +7772,8 @@
     "wynik": "I miejsce",
     "uczen": "Weronika Płatos",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 487,
@@ -7302,7 +7788,8 @@
     "wynik": "II miejsce",
     "uczen": "Oliwia Jakubowska, Lena Krawczyk, Gabriela Kotkowska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 488,
@@ -7317,7 +7804,8 @@
     "wynik": "III miejsce",
     "uczen": "Milena Rogala",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 489,
@@ -7332,7 +7820,8 @@
     "wynik": "II miejsce",
     "uczen": "Amelia Chrząszcz",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 490,
@@ -7347,7 +7836,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Wojciech Sadowski",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 491,
@@ -7362,7 +7852,8 @@
     "wynik": "III miejsce",
     "uczen": "Jakub Wojcieszak",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 492,
@@ -7377,7 +7868,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Gabriela Sowa",
     "opiekun": "Agnieszka Kozakiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 493,
@@ -7392,7 +7884,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Hanna Kwiecień",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 494,
@@ -7407,7 +7900,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Aleks Sowa",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 495,
@@ -7422,7 +7916,8 @@
     "wynik": "II miejsce w kategorii tekst",
     "uczen": "Piotr Markowicz",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 496,
@@ -7437,7 +7932,8 @@
     "wynik": "wyróżnienie w kategorii tekst",
     "uczen": "Artur Zdziech",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 497,
@@ -7452,7 +7948,8 @@
     "wynik": "II miejsce",
     "uczen": "Julia Walczak",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 498,
@@ -7467,7 +7964,8 @@
     "wynik": "finalistka",
     "uczen": "Hanna Kobacka",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 499,
@@ -7482,7 +7980,8 @@
     "wynik": "finalistka",
     "uczen": "Natalia Strzelecka",
     "opiekun": "Agnieszka Kozakiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 500,
@@ -7497,7 +7996,8 @@
     "wynik": "finalistka",
     "uczen": "Gabriela Jasińska",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 501,
@@ -7512,7 +8012,8 @@
     "wynik": "finalistka",
     "uczen": "Julia Stanik",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 502,
@@ -7527,7 +8028,8 @@
     "wynik": "finalista",
     "uczen": "Antoni Kwietniewski",
     "opiekun": "Monika Łukasiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 503,
@@ -7542,7 +8044,8 @@
     "wynik": "II miejsce",
     "uczen": "Amelia Chrząszcz",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 504,
@@ -7557,7 +8060,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Gabriela Sowa",
     "opiekun": "Agnieszka Kozakiewicz",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 505,
@@ -7572,7 +8076,8 @@
     "wynik": "II miejsce w kategorii plakat",
     "uczen": "Anna Leśniak",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 506,
@@ -7587,7 +8092,8 @@
     "wynik": "wyróżnienie w kategorii plakat",
     "uczen": "Weronika Sowa",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 507,
@@ -7602,7 +8108,8 @@
     "wynik": "wyróżnienie w kategorii plakat",
     "uczen": "Wiktoria Pająk",
     "opiekun": "Magdalena Jankowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 508,
@@ -7617,7 +8124,8 @@
     "wynik": "I miejsce w kategorii literackiej",
     "uczen": "Piotr Markowicz",
     "opiekun": "Beata Olczykowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 509,
@@ -7632,7 +8140,8 @@
     "wynik": "wyróżnienie w kategorii literackiej",
     "uczen": "Antoni Stanikowski",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 510,
@@ -7647,7 +8156,8 @@
     "wynik": "wyróżnienie w kategorii literackiej",
     "uczen": "Zuzanna Zaniat",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 511,
@@ -7662,7 +8172,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Walczak",
     "opiekun": "Michał Kański",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 512,
@@ -7677,7 +8188,8 @@
     "wynik": "III miejsce",
     "uczen": "David Domagała, Natalia Mazurkiewicz, Błażej Pietroń, Nadia Rybak, Cyprian Świerzewski",
     "opiekun": "Dariusz Rzepka",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 513,
@@ -7692,7 +8204,8 @@
     "wynik": "finalista",
     "uczen": "Kacper Kwaśnik",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 514,
@@ -7707,7 +8220,8 @@
     "wynik": "I miejsce",
     "uczen": "Igor Zawadzki",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 515,
@@ -7722,7 +8236,8 @@
     "wynik": "finalistka",
     "uczen": "Milena Rogala",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 516,
@@ -7737,7 +8252,8 @@
     "wynik": "finalistka",
     "uczen": "Roksana Rzońca",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 517,
@@ -7752,7 +8268,8 @@
     "wynik": "I miejsce",
     "uczen": "Łukasz Kotlarz, Dawid Kwaśniewski, Igor Zawadzki, Artur Zdziech",
     "opiekun": "Marcin Markowicz, Joanna Beczkowska, Kamila Kościelnik",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 518,
@@ -7767,7 +8284,8 @@
     "wynik": "I miejsce",
     "uczen": "Maciej Kondziela, Wojciech Leszczyński, Maciej Popielarski, Antoni Stanikowski",
     "opiekun": "Joanna Bęczkowska, Kamila Kościelnik",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 519,
@@ -7782,7 +8300,8 @@
     "wynik": "laureat",
     "uczen": "Michał Grudziński",
     "opiekun": "Joanna Bęczkowska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 520,
@@ -7797,7 +8316,8 @@
     "wynik": "laureatka",
     "uczen": "Aleksandra Lipka",
     "opiekun": "Kamila Kościelnik",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 521,
@@ -7812,7 +8332,8 @@
     "wynik": "laureatka",
     "uczen": "Natalia Nierubiszewska",
     "opiekun": "Artur Kasprzyk",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 522,
@@ -7827,7 +8348,8 @@
     "wynik": "I miejsce",
     "uczen": "Wiktoria Kocur",
     "opiekun": "A.Iwańczyk- Górka, D. Rzepka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 523,
@@ -7842,7 +8364,8 @@
     "wynik": "II miejsce",
     "uczen": "Zuzanna Fryszkiewicz",
     "opiekun": "A.Iwańczyk- Górka, D. Rzepka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 524,
@@ -7857,7 +8380,8 @@
     "wynik": "III miejsce",
     "uczen": "Julia Markiewicz",
     "opiekun": "A.Iwańczyk- Górka, D. Rzepka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 525,
@@ -7872,7 +8396,8 @@
     "wynik": "laureatka",
     "uczen": "Amelia Czerwińska",
     "opiekun": "M. Czarnota, K. Kwiecień, M. Majewska-Dziuba",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 526,
@@ -7887,7 +8412,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Jakub Smolarski",
     "opiekun": "M. Czarnota, K. Kwiecień, M. Majewska-Dziuba",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 527,
@@ -7902,7 +8428,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Bućwińska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 528,
@@ -7917,7 +8444,8 @@
     "wynik": "II miejsce",
     "uczen": "Lena Bukowska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 529,
@@ -7932,7 +8460,8 @@
     "wynik": "III miejsce",
     "uczen": "Zofia Zaręba",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 530,
@@ -7947,7 +8476,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Oliwia Jakubowska",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 531,
@@ -7962,7 +8492,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Anna Leśniak",
     "opiekun": "Anna Iwańczyk-Górka",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 532,
@@ -7977,7 +8508,8 @@
     "wynik": "wyróżnienie w etapie diecezjalnym",
     "uczen": "Gabriela Jasińska",
     "opiekun": "Małgorzata Sar",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 533,
@@ -7992,7 +8524,8 @@
     "wynik": "półfinalistka",
     "uczen": "Julia Krukowska",
     "opiekun": "Małgorzata Podkowińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 534,
@@ -8007,7 +8540,8 @@
     "wynik": "półfinalista",
     "uczen": "Jan Kwaczyński",
     "opiekun": "Małgorzata Podkowińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 535,
@@ -8022,7 +8556,8 @@
     "wynik": "4 miejsce etap regionalny",
     "uczen": "drużyna",
     "opiekun": "Izabela Ikwanty",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 536,
@@ -8037,7 +8572,8 @@
     "wynik": "I miejsce",
     "uczen": "Milena Rogala",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 537,
@@ -8052,7 +8588,8 @@
     "wynik": "II miejsce",
     "uczen": "Julia Wydra",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 538,
@@ -8067,7 +8604,8 @@
     "wynik": "III miejsce",
     "uczen": "Natalia Bednarczyk",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 539,
@@ -8082,7 +8620,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Natalia Zegarek",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 540,
@@ -8097,7 +8636,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Patrycja Bednarek",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 541,
@@ -8112,7 +8652,8 @@
     "wynik": "I miejsce",
     "uczen": "Anna Leśniak",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 542,
@@ -8127,7 +8668,8 @@
     "wynik": "II miejsce",
     "uczen": "Emilia Ciućmańska",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 543,
@@ -8142,7 +8684,8 @@
     "wynik": "III miejsce",
     "uczen": "Julia Wydra",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 544,
@@ -8157,7 +8700,8 @@
     "wynik": "laureatka kategorii „wiersz o miłości”",
     "uczen": "Klaudia Suwalska",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 545,
@@ -8172,7 +8716,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Wydra",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 546,
@@ -8187,7 +8732,8 @@
     "wynik": "II miejsce",
     "uczen": "Piotr Markowicz",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 547,
@@ -8202,7 +8748,8 @@
     "wynik": "III miejsce",
     "uczen": "Emilia Ciućmańska",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 548,
@@ -8217,7 +8764,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Anna LeśniaK",
     "opiekun": "I. Ikwanty, B. Przerwa, R. Leszczyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 549,
@@ -8232,7 +8780,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Maciej Dzięgielewski",
     "opiekun": "Wojciech Kieszkowski",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 550,
@@ -8247,7 +8796,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Jan Wojda",
     "opiekun": "Wojciech Kieszkowski",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 551,
@@ -8262,7 +8812,8 @@
     "wynik": "laureaci",
     "uczen": "Błażej Borodziuk, Mateusz Pastuszka, Nadia Rybak",
     "opiekun": "zespół nauczycieli matematyki",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 552,
@@ -8277,7 +8828,8 @@
     "wynik": "I miejsce",
     "uczen": "Agnieszka Gizińska",
     "opiekun": "Joanna Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 553,
@@ -8292,7 +8844,8 @@
     "wynik": "II miejsce",
     "uczen": "Hanna Karkosa",
     "opiekun": "Joanna Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 554,
@@ -8307,7 +8860,8 @@
     "wynik": "III miejsce",
     "uczen": "Małgorzata Rogala",
     "opiekun": "Joanna Woźniak",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 555,
@@ -8322,7 +8876,8 @@
     "wynik": "laureat",
     "uczen": "Wiktor Chojnacki",
     "opiekun": "Martyna Czarnota",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 556,
@@ -8337,7 +8892,8 @@
     "wynik": "III miejsce w etapie okręgowym",
     "uczen": "Szymon Kwiatkowski",
     "opiekun": "Magdalena Starzyńska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 557,
@@ -8352,7 +8908,8 @@
     "wynik": "II miejsce",
     "uczen": "Roksana Papis",
     "opiekun": "Monika Majewska-Dziuba",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 558,
@@ -8367,7 +8924,8 @@
     "wynik": "II miejsce",
     "uczen": "Alicja Czarnecka, Joanna Wojtkiewicz, Dawid Borkowski",
     "opiekun": "Artur Kasprzyk",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 559,
@@ -8382,7 +8940,8 @@
     "wynik": "II etap",
     "uczen": "Katarzyna Oleszczuk",
     "opiekun": "Monika Majewska-Dziuba",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 560,
@@ -8397,7 +8956,8 @@
     "wynik": "II etap",
     "uczen": "Roksana Papis",
     "opiekun": "Monika Majewska-Dziuba",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 561,
@@ -8412,7 +8972,8 @@
     "wynik": "II etap",
     "uczen": "Małgorzata Rogala",
     "opiekun": "Monika Majewska-Dziuba",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 562,
@@ -8427,7 +8988,8 @@
     "wynik": "III miejsce",
     "uczen": "Nadia Adamczyk, Agnieszka Bienias, Milena Bogusiewicz, Julia Jagiełło, Maja Kacprzak, Patrycja Pietrzyk, Natalia Skrok",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 563,
@@ -8442,7 +9004,8 @@
     "wynik": "III miejsce",
     "uczen": "Nadia Adamczyk, Maria Bekier, Barbara Bożewicz, Marika Cieślińska, Matylda Czachor, Emilia Drużdżel, Dominika Kalita, Jagoda Krzemińska, Zofia Leszczyńska, Julia Łabędzka, Adrianna Rybińska, Natalia Skrok, Zuzanna Staniewska",
     "opiekun": "Jakub Nowakowski",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 564,
@@ -8457,7 +9020,8 @@
     "wynik": "II miejsce",
     "uczen": "Jan Biernat, Witold Bylica, Szymon Grudziński, Jakub Jastrząb, Kiryl Kivel, Bartosz Król, Filip Kruk, Filip Lubański, Wiktor Porochnenko, Jan Sitkowski, Cyprian Świerzewski",
     "opiekun": "Jakub Nowakowski",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 565,
@@ -8472,7 +9036,8 @@
     "wynik": "II miejsce",
     "uczen": "Marcel Babicki, Jan Biernat, Witold Bylica, Michał Furciński, Mikołaj Furciński, Adam Jastrząb, Jakub Jastrząb, Filip Kruk, Igor Nitak, Adam Rudzki, Wiktor Rydz, Jakub Wojtunik",
     "opiekun": "Jakub Nowakowski",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 566,
@@ -8487,7 +9052,8 @@
     "wynik": "I miejsce",
     "uczen": "Nadia Adamczyk, Maria Bekier, Alicja Cholewińska, Marika Cieślińska, Katarzyna Ilczewska, Maja Kacprzak, Dominika Kalita, Magdalena Kucharska, Julia Łabędzka, Hanna Paluszek, Inez Rzeźnik, Marta Ruzik, Natalia Skrok, Zuzanna Staniewska",
     "opiekun": "Rafał Banaczek",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 567,
@@ -8502,7 +9068,8 @@
     "wynik": "I miejsce",
     "uczen": "Hanna Abramowicz, Nadia Adamczyk, Natalia Dżbik, Iga Figura, Maja Głogowska, Maja Kacprzak, Dominika Kalita, Nelly Kołodziejczyk, Lena Kruk, Maja Mechowska, Julia Nowak, Maria Pyszczek, Roksana Stasiak",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 568,
@@ -8517,7 +9084,8 @@
     "wynik": "II miejsce",
     "uczen": "Agnieszka Bienias, Milena Bogusiewicz, Aniela Czarnecka, Julia Jagiełło, Michalina Jedynak, Hanna Karkosa, Maja Kacprzak, Maria Kalita, Magdalena Kucharska, Natasza Kwiecień, Natalia Nierubiszewska, Hanna Paluszek, Gabriela Piaseczna, Wiktoria Pora, Inez Rzeźnik, Zuzanna Staniewska, Anastazja Wiszniowska, Nina Włodarczyk, Lena Wojnicka, Natalia Zegarek",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 569,
@@ -8532,7 +9100,8 @@
     "wynik": "I miejsce",
     "uczen": "Milena Bogusiewicz",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 570,
@@ -8547,7 +9116,8 @@
     "wynik": "III miejsce",
     "uczen": "Natalia Zegarek",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 571,
@@ -8562,7 +9132,8 @@
     "wynik": "II miejsce",
     "uczen": "Hanna Karkosa",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 572,
@@ -8577,7 +9148,8 @@
     "wynik": "I miejsce",
     "uczen": "Hanna Paluszek",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 573,
@@ -8592,7 +9164,8 @@
     "wynik": "I miejsce",
     "uczen": "Jagoda Krzemińska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 574,
@@ -8607,7 +9180,8 @@
     "wynik": "II miejsce",
     "uczen": "Zuzanna Staniewska",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 575,
@@ -8622,7 +9196,8 @@
     "wynik": "III miejsce",
     "uczen": "Wiktoria Pora",
     "opiekun": "Agnieszka Płaskocińska",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 576,
@@ -8637,7 +9212,8 @@
     "wynik": "II miejsce",
     "uczen": "Dawid Borowski, Franciszek Bornikowski, Kamil Czubak, Michał Grudziński, Jakub Holak, Szymon Jabłoński, Adam Kilianek, Kiryl Kivel, Aleksander Lubasiński, Jakub Mizak, Marcel Niewiadomski, Igor Nitak, Rayan Obadi, Marek Podlewski, Mariusz Piasecki, Oskar Przystasz, Kajetan Rabczyński, Szymon Równy, Wiktor Rydz, Aleksander Urbanelis, Jakub Wojcieszak, Jakub Wojtunik, Franciszek Wróbel, Mikołaj Zalewski",
     "opiekun": "Piotr Duliniec",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 577,
@@ -8652,7 +9228,8 @@
     "wynik": "I miejsce",
     "uczen": "Szymon Jabłoński (2c)",
     "opiekun": "Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 578,
@@ -8667,7 +9244,8 @@
     "wynik": "I miejsce",
     "uczen": "Mariusz Piasecki (4d)",
     "opiekun": "Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 579,
@@ -8682,7 +9260,8 @@
     "wynik": "II miejsce",
     "uczen": "Franciszek Bornikowski (2c)",
     "opiekun": "Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 580,
@@ -8697,7 +9276,8 @@
     "wynik": "II miejsce",
     "uczen": "Oskar Przystasz (2h)",
     "opiekun": "Piotr Duliniec",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 581,
@@ -8712,7 +9292,8 @@
     "wynik": "I miejsce",
     "uczen": "Michał Grudziński, Szymon Jabłoński, Aleksander Urbanelis, Jakub Wojcieszak",
     "opiekun": "Piotr Duliniec",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 582,
@@ -8727,7 +9308,8 @@
     "wynik": "I miejsce",
     "uczen": "Kamil Czubak, Michał Grudziński, Jan Jach, Tymoteusz Jęczkowski, Filip Kutkowski, Rayan Obadi, Oskar Przystasz, Kuba Snopczyński, Franciszek Wróbel",
     "opiekun": "Edyta Wachowicz",
-    "typ": "d"
+    "typ": "d",
+    "zakonczony": true
   },
   {
     "id": 583,
@@ -8742,7 +9324,8 @@
     "wynik": "I miejsce",
     "uczen": "Marta Bednarska",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 584,
@@ -8757,7 +9340,8 @@
     "wynik": "I miejsce",
     "uczen": "Zuzanna Brzeska",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 585,
@@ -8772,7 +9356,8 @@
     "wynik": "I miejsce",
     "uczen": "Ola Ciszewska",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 586,
@@ -8787,7 +9372,8 @@
     "wynik": "I miejsce",
     "uczen": "Antonina Kotowska",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 587,
@@ -8802,7 +9388,8 @@
     "wynik": "I miejsce",
     "uczen": "Hubert Sałbut",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 588,
@@ -8817,7 +9404,8 @@
     "wynik": "I miejsce",
     "uczen": "Julia Stanik",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 589,
@@ -8832,7 +9420,8 @@
     "wynik": "I miejsce",
     "uczen": "Elżbieta Szczygieł",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 590,
@@ -8847,7 +9436,8 @@
     "wynik": "I miejsce",
     "uczen": "Zuzanna Wiśniewska",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 591,
@@ -8862,7 +9452,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Maciej Dzięgielewski",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 592,
@@ -8877,7 +9468,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Natalia Kuropieska",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 593,
@@ -8892,7 +9484,8 @@
     "wynik": "wyróżnienie",
     "uczen": "Karolina Szczepaniak",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
     "id": 594,
@@ -8907,10 +9500,11 @@
     "wynik": "wyróżnienie",
     "uczen": "Julia Zajączkowska",
     "opiekun": "M. Sar, M. Waniek",
-    "typ": "i"
+    "typ": "i",
+    "zakonczony": true
   },
   {
-    "id": 1,
+    "id": 595,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "maturalna",
@@ -8927,7 +9521,7 @@
     "waga": 729
   },
   {
-    "id": 2,
+    "id": 596,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "maturalna",
@@ -8944,7 +9538,7 @@
     "waga": 729
   },
   {
-    "id": 3,
+    "id": 597,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "maturalna",
@@ -8961,7 +9555,7 @@
     "waga": 729
   },
   {
-    "id": 4,
+    "id": 598,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "regionalna",
@@ -8978,7 +9572,7 @@
     "waga": 349
   },
   {
-    "id": 5,
+    "id": 599,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "regionalna",
@@ -8995,7 +9589,7 @@
     "waga": 349
   },
   {
-    "id": 6,
+    "id": 600,
     "rok": "2026/2027",
     "rodzaj": "s",
     "ranga": "regionalna",
