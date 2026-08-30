@@ -4,7 +4,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XII Ogólnopolski Konkurs Polonistyczny „Z ortografią na co dzień”",
     "wynik": "finalistka",
@@ -17,7 +19,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Regionalny Konkurs Ortograficzny",
     "wynik": "I miejsce",
@@ -30,7 +34,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Regionalny Konkurs Ortograficzny",
     "wynik": "III miejsce",
@@ -43,7 +49,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Regionalny Konkurs Ortograficzny",
     "wynik": "wyróżnienie",
@@ -56,7 +64,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Regionalny Konkurs Czytelniczy",
     "wynik": "III miejsce",
@@ -69,7 +79,9 @@
     "rok": "2015/2016",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "II Arkowy Konkurs recytatorsko-Aktorski „Kara”",
     "wynik": "II miejsce",
@@ -82,7 +94,9 @@
     "rok": "2015/2016",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XXX Ogólnopolski Konkurs Recytatorski im. B. Leśmiana",
     "wynik": "wyróżnienie",
@@ -95,7 +109,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XXX Ogólnopolski Konkurs Recytatorski im. B. Leśmiana",
     "wynik": "finalistka",
@@ -108,7 +124,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "I Mazowiecki Festiwal Twórczości Zbigniewa Herberta",
     "wynik": "II miejsce w kategorii recytacja",
@@ -121,7 +139,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "I Mazowiecki Festiwal Twórczości Zbigniewa Herberta",
     "wynik": "II miejsce w kategorii zdjęcie",
@@ -134,7 +154,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "IV edycja Konkursu Fotograficznego „Mój powiat w obiektywie”",
     "wynik": "III miejsce",
@@ -147,7 +169,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XVII Turniej Słowa poświęcony Marii Pawlikowskiej-Jasnorzewskiej",
     "wynik": "wyróżnienie",
@@ -160,7 +184,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XVII Turniej Słowa poświęcony Marii Pawlikowskiej-Jasnorzewskiej",
     "wynik": "wyróżnienie",
@@ -173,7 +199,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XVII Turniej Słowa poświęcony Marii Pawlikowskiej-Jasnorzewskiej",
     "wynik": "wyróżnienie",
@@ -186,7 +214,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs na hasło promujące akcję „Zdrowo i kulturalnie kibicuj radomskim sportowcom”",
     "wynik": "wyróżnienie",
@@ -199,7 +229,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs na hasło promujące akcję „Zdrowo i kulturalnie kibicuj radomskim sportowcom”",
     "wynik": "wyróżnienie",
@@ -212,7 +244,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs na hasło promujące akcję „Zdrowo i kulturalnie kibicuj radomskim sportowcom”",
     "wynik": "wyróżnienie",
@@ -225,7 +259,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs na hasło promujące akcję „Zdrowo i kulturalnie kibicuj radomskim sportowcom”",
     "wynik": "wyróżnienie",
@@ -238,7 +274,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs na hasło promujące akcję „Zdrowo i kulturalnie kibicuj radomskim sportowcom”",
     "wynik": "wyróżnienie",
@@ -251,7 +289,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Ogólnopolski konkurs „Przerabianie Sienkiewicza” zorganizowany przez Instytut Filologii Polskiej UMCS",
     "wynik": "II miejsce z kategorii plastycznej",
@@ -264,7 +304,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Regionalny Konkurs Ortograficzny",
     "wynik": "finalistka",
@@ -277,7 +319,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Regionalny Konkurs Ortograficzny",
     "wynik": "finalista",
@@ -290,7 +334,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Regionalny Konkurs Czytelniczy",
     "wynik": "II miejsce",
@@ -303,7 +349,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Regionalny Konkurs Czytelniczy",
     "wynik": "III miejsce",
@@ -316,7 +364,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XVII Ogólnopolski Festiwal Herbertowski",
     "wynik": "III miejsce w kategorii plastycznej",
@@ -329,7 +379,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Międzyszkolny Konkurs Recytatorski „Wspomnienia z podróży w twórczości Słowackiego”",
     "wynik": "wyróżnienie",
@@ -342,7 +394,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "IV Ogólnopolski Festiwal Lalki i Słowa",
     "wynik": "III miejsce",
@@ -355,7 +409,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XXXI Ogólnopolski Konkurs Recytatorski im. B. Leśmiana",
     "wynik": "II miejsce w kategorii poezja śpiewana",
@@ -368,7 +424,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XXXI Ogólnopolski Konkurs Recytatorski im. B. Leśmiana",
     "wynik": "wyróżnienie",
@@ -381,7 +439,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XXXI Ogólnopolski Konkurs Recytatorski im. B. Leśmiana",
     "wynik": "wyróżnienie",
@@ -394,7 +454,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XIV Ogólnopolski konkurs polonistyczny „Z ortografią na co dzień”",
     "wynik": "finalistka",
@@ -407,7 +469,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIV Prezentacje recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "I miejsce w kategorii poezja śpiewana",
@@ -420,7 +484,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIV Prezentacje recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "II miejsce w kategorii poezja śpiewana",
@@ -433,7 +499,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIV Prezentacje recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "III miejsce w kategorii poezja śpiewana",
@@ -446,7 +514,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIX Regionalny Konkurs Literacki",
     "wynik": "wyróżnienie",
@@ -459,7 +529,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "I Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "I miejsce",
@@ -472,7 +544,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "I Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "III miejsce",
@@ -485,7 +559,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "I Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "V miejsce",
@@ -498,7 +574,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "I Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "wyróżnienie",
@@ -511,7 +589,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Eliminacje 63. Ogólnopolskiego Konkursu Recytatorskiego",
     "wynik": "I miejsce",
@@ -524,7 +604,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Eliminacje 63. Ogólnopolskiego Konkursu Recytatorskiego",
     "wynik": "wyróżnienie",
@@ -537,7 +619,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Eliminacje 63. Ogólnopolskiego Konkursu Recytatorskiego",
     "wynik": "wyróżnienie",
@@ -550,7 +634,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "wok",
+    "przedmiot": [
+      "wok"
+    ],
     "waga": 344,
     "konkurs": "XVII Regionalny Konkurs Wiedzy o Kulturze Ziemi Radomskiej",
     "wynik": "III miejsce",
@@ -563,7 +649,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "wok",
+    "przedmiot": [
+      "wok"
+    ],
     "waga": 344,
     "konkurs": "XVII Regionalny Konkurs Wiedzy o Kulturze Ziemi Radomskiej",
     "wynik": "V miejsce",
@@ -576,7 +664,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XII Ogólnopolski Przegląd Twórczości Poetyckiej im. J. Kaczmarskiego „Rytmy nieskończoności”",
     "wynik": "laureatka",
@@ -589,7 +679,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XII Ogólnopolski Przegląd Twórczości Poetyckiej im. J. Kaczmarskiego „Rytmy nieskończoności”",
     "wynik": "laureat",
@@ -602,7 +694,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "lokalna",
-    "przedmiot": "wok",
+    "przedmiot": [
+      "wok"
+    ],
     "waga": 244,
     "konkurs": "Międzypokoleniowy Festiwal Filmowy „W świat moich dziadków”",
     "wynik": "laureat",
@@ -615,7 +709,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Adamie Mickiewiczu organizowany przez UMCS",
     "wynik": "III miejsce",
@@ -628,7 +724,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Adamie Mickiewiczu organizowany przez UMCS",
     "wynik": "laureatka",
@@ -641,7 +739,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Adamie Mickiewiczu organizowany przez UMCS",
     "wynik": "wyróżnienie",
@@ -654,7 +754,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Adamie Mickiewiczu organizowany przez UMCS",
     "wynik": "wyróżnienie",
@@ -667,7 +769,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Adamie Mickiewiczu organizowany przez UMCS",
     "wynik": "wyróżnienie",
@@ -680,7 +784,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Adamie Mickiewiczu organizowany przez UMCS",
     "wynik": "wyróżnienie",
@@ -693,7 +799,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Adamie Mickiewiczu organizowany przez UMCS",
     "wynik": "wyróżnienie",
@@ -706,7 +814,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "X Powiatowy Konkurs Filmu Amatorskiego „Każdy ma obiektyw w oku”",
     "wynik": "I miejsce",
@@ -719,7 +829,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Konkurs organizowany przez UMCS „Inny Herbert”",
     "wynik": "II miejsce w kategorii esej",
@@ -732,7 +844,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Konkurs organizowany przez UMCS „Inny Herbert”",
     "wynik": "wyróżnienie w kategorii praca plastyczna",
@@ -745,7 +859,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "V Międzyszkolny konkurs recytatorski „Od Kochanowskiego do poety kresowego”",
     "wynik": "III miejsce",
@@ -758,7 +874,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XV Prezentacje recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "I miejsce w kategorii poezja śpiewana",
@@ -771,7 +889,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XV Prezentacje recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "II miejsce w kategorii poezja śpiewana",
@@ -784,7 +904,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XV Prezentacje recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "III miejsce w kategorii recytacja",
@@ -797,7 +919,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "II Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "I miejsce",
@@ -810,7 +934,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "II Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "III miejsce",
@@ -823,7 +949,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "II Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "wyróżnienie",
@@ -836,7 +964,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "II Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "wyróżnienie",
@@ -849,7 +979,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "wok",
+    "przedmiot": [
+      "wok"
+    ],
     "waga": 344,
     "konkurs": "XVIII Regionalny Konkurs Wiedzy o Kulturze Ziemi Radomskiej",
     "wynik": "III miejsce",
@@ -862,7 +994,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Mazowiecki konkurs plastyczny „Kartka wielkanocna”",
     "wynik": "wyróżnienie",
@@ -875,7 +1009,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Mazowiecki konkurs plastyczny „Kartka wielkanocna”",
     "wynik": "wyróżnienie",
@@ -888,7 +1024,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs literacki „Osoby z zespołem Downa – takie same jak my czy inne?”",
     "wynik": "nagroda",
@@ -901,7 +1039,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "II miejsce: plakat",
@@ -914,7 +1054,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie: plakat",
@@ -927,7 +1069,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie: plakat",
@@ -940,7 +1084,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "I miejsce: wiersz",
@@ -953,7 +1099,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "II miejsce: wiersz",
@@ -966,7 +1114,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "III miejsce: wiersz",
@@ -979,7 +1129,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "I miejsce: esej",
@@ -992,7 +1144,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "III miejsce: esej",
@@ -1005,7 +1159,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie: esej",
@@ -1018,7 +1174,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "VI Międzyszkolny Konkurs Recytatorski „Od Jana Kochanowskiego do poety kresowego”",
     "wynik": "wyróżnienie",
@@ -1031,7 +1189,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XVI Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "I miejsce",
@@ -1044,7 +1204,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XVI Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "wyróżnienie",
@@ -1057,7 +1219,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 348,
     "konkurs": "Konkurs organizowany przez Muzeum Niepodległości w Warszawie „Powstanie warszawskie w świadomości potomnych”",
     "wynik": "II miejsce",
@@ -1070,7 +1234,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 348,
     "konkurs": "Konkurs organizowany przez Muzeum Niepodległości w Warszawie „Niepodległa”",
     "wynik": "wyróżnienie",
@@ -1083,7 +1249,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "I edycja konkursu ortograficznego online Mistrz Ortografii w kategorii szkół średnich",
     "wynik": "Laureat",
@@ -1096,7 +1264,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "III Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "II miejsce",
@@ -1109,7 +1279,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "III Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "finalistka",
@@ -1122,7 +1294,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "wok",
+    "przedmiot": [
+      "wok"
+    ],
     "waga": 344,
     "konkurs": "XIX Regionalny Konkurs o Kulturze Ziemi Radomskiej",
     "wynik": "II etap",
@@ -1135,7 +1309,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "wok",
+    "przedmiot": [
+      "wok"
+    ],
     "waga": 344,
     "konkurs": "XIX Regionalny Konkurs o Kulturze Ziemi Radomskiej",
     "wynik": "II etap",
@@ -1148,7 +1324,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki Test o Juliuszu Słowackim organizowany przez UMCS",
     "wynik": "II miejsce",
@@ -1161,7 +1339,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "I miejsce w kategorii plakat",
@@ -1174,7 +1354,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "II miejsce w kategorii plakat",
@@ -1187,7 +1369,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie w kategorii plakat",
@@ -1200,7 +1384,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie w kategorii plakat",
@@ -1213,7 +1399,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie w kategorii plakat",
@@ -1226,7 +1414,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "I miejsce w kategorii wiersz",
@@ -1239,7 +1429,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "III miejsce w kategorii wiersz",
@@ -1252,7 +1444,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie w kategorii wiersz",
@@ -1265,7 +1459,9 @@
     "rok": "2019/2020",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie w kategorii wiersz",
@@ -1278,7 +1474,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 749,
     "konkurs": "LI Olimpiada Literatury i Języka Polskiego",
     "wynik": "finalistka",
@@ -1291,7 +1489,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs organizowany przez Muzeum Tatrzańskie w Zakopanem „Tytus Chałubiński i jego pasje”",
     "wynik": "I miejsce",
@@ -1304,7 +1504,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs organizowany przez Muzeum Tatrzańskie w Zakopanem „Tytus Chałubiński i jego pasje”",
     "wynik": "wyróżnienie",
@@ -1317,7 +1519,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs organizowany przez Muzeum Tatrzańskie w Zakopanem „Tytus Chałubiński i jego pasje”",
     "wynik": "wyróżnienie",
@@ -1330,7 +1534,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "IV Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "II miejsce",
@@ -1343,7 +1549,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "IV Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "III miejsce",
@@ -1356,7 +1564,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "IV Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "finalista",
@@ -1369,7 +1579,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "IV Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "finalistka",
@@ -1382,7 +1594,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "IV Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "finalistka",
@@ -1395,7 +1609,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "IV Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "finalistka",
@@ -1408,7 +1624,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "IV Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "finalistka",
@@ -1421,7 +1639,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "edb",
+    "przedmiot": [
+      "edb"
+    ],
     "waga": 519,
     "konkurs": "Olimpiada Zwolnieni z teorii – projekt „Antidotum dla umysłu”",
     "wynik": "Finalista",
@@ -1434,7 +1654,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Quiz „LEMoniada z Polonem” organizowany przez SKN Polonistów UMCS",
     "wynik": "Zwycięstwo",
@@ -1447,7 +1669,9 @@
     "rok": "2021/2022",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XVII Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "I miejsce",
@@ -1460,7 +1684,9 @@
     "rok": "2021/2022",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XVII Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "II miejsce",
@@ -1473,7 +1699,9 @@
     "rok": "2021/2022",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XVII Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt”",
     "wynik": "wyróżnienie w kategorii poezja śpiewana",
@@ -1486,7 +1714,9 @@
     "rok": "2021/2022",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Koncert Laureatów Ogólnopolskiego Małego Konkursu recytatorskiego",
     "wynik": "laureatka",
@@ -1499,7 +1729,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XVIII Ogólnopolski Konkurs Polonistyczny „Z ortografią na co dzień”",
     "wynik": "finalistka",
@@ -1512,7 +1744,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "V Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "II miejsce",
@@ -1525,7 +1759,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Norwidzie organizowany przez UMCS",
     "wynik": "wyróżnienie",
@@ -1538,7 +1774,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki test o Norwidzie organizowany przez UMCS",
     "wynik": "wyróżnienie",
@@ -1551,7 +1789,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XVIII Prezentacje Recytatorskie Poetae Nascuntur, Oratores Fiunt poświęconych pamięci Jonasz Kofty",
     "wynik": "II miejsce",
@@ -1564,7 +1804,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XVIII Prezentacje Recytatorskie Poetae Nascuntur, Oratores Fiunt poświęconych pamięci Jonasz Kofty",
     "wynik": "wyróżnienie",
@@ -1577,7 +1819,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki Test o Romantyzmie organizowany przez UMCS",
     "wynik": "III miejsce",
@@ -1590,7 +1834,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Wielki Test o Romantyzmie organizowany przez UMCS",
     "wynik": "wyróżnienie",
@@ -1603,7 +1849,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VI Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "II miejsce",
@@ -1616,7 +1864,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VI Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "II miejsce",
@@ -1629,7 +1879,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VI Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "finalistka",
@@ -1642,7 +1894,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VI Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "finalistka",
@@ -1655,7 +1909,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Konkurs debat oksfordzkich organizowanych przez SGH",
     "wynik": "finaliści",
@@ -1668,7 +1924,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "I miejsce: plakat",
@@ -1681,7 +1939,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "III miejsce: plakat",
@@ -1694,7 +1954,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie: plakat",
@@ -1707,7 +1969,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "I miejsce: wiersz",
@@ -1720,7 +1984,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie: wiersz",
@@ -1733,7 +1999,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie: wiersz",
@@ -1746,7 +2014,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 749,
     "konkurs": "LIV Olimpiada Literatury i Języka Polskiego",
     "wynik": "laureatka",
@@ -1759,7 +2029,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "filozofia",
+    "przedmiot": [
+      "filozofia"
+    ],
     "waga": 746,
     "konkurs": "XXXVI Olimpiada Filozoficzna",
     "wynik": "finalistka",
@@ -1772,7 +2044,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VII Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "III miejsce",
@@ -1785,7 +2059,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VII Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "III miejsce",
@@ -1798,7 +2074,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VII Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "wyróżnienie",
@@ -1811,7 +2089,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VII Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "wyróżnienie",
@@ -1824,7 +2104,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "VII Regionalny Konkurs Czytelniczy dla szkół ponadpodstawowych organizowany przez Stowarzyszenie Nauczycieli Polonistów",
     "wynik": "wyróżnienie",
@@ -1837,7 +2119,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Konkurs debat oksfordzkich organizowanych przez SGH",
     "wynik": "finaliści",
@@ -1850,7 +2134,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "II miejsce: plakat",
@@ -1863,7 +2149,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "III miejsce: plakat",
@@ -1876,7 +2164,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie: plakat",
@@ -1889,7 +2179,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "I miejsce: wiersz",
@@ -1902,7 +2194,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "II miejsce: wiersz",
@@ -1915,7 +2209,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!”",
     "wynik": "wyróżnienie: wiersz",
@@ -1928,7 +2224,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XV Ogólnopolski Konkurs Literacki na Opowiadanie Fantastyczne „Pigmalion Fantastyki”",
     "wynik": "wyróżnienie",
@@ -1941,7 +2239,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XV Ogólnopolski Konkurs Literacki na Opowiadanie Fantastyczne „Pigmalion Fantastyki”",
     "wynik": "wyróżnienie",
@@ -1954,7 +2254,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "Ogólnopolski Konkurs Fotograficzny „Portrety”",
     "wynik": "wyróżnienie",
@@ -1967,7 +2269,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "32. Regionalny Konkurs Literacki",
     "wynik": "I miejsce",
@@ -1980,7 +2284,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XXII Ogólnopolski Konkurs Polonistyczny „Z poprawną polszczyzną na co dzień”",
     "wynik": "wyróżnienie",
@@ -1993,7 +2299,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XX Ogólnopolski Konkurs Polonistyczny „Z ortografią na co dzień”",
     "wynik": "finalistka",
@@ -2006,7 +2314,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XX Ogólnopolski Konkurs Polonistyczny „Z ortografią na co dzień”",
     "wynik": "finalistka",
@@ -2019,7 +2329,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XX Ogólnopolski Konkurs Polonistyczny „Z ortografią na co dzień”",
     "wynik": "wyróżnienie",
@@ -2032,7 +2344,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XX Ogólnopolski Konkurs Polonistyczny „Z ortografią na co dzień”",
     "wynik": "wyróżnienie",
@@ -2045,7 +2359,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XX Ogólnopolski Konkurs Polonistyczny „Z ortografią na co dzień”",
     "wynik": "wyróżnienie",
@@ -2058,7 +2374,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs literacko-plastyczny „Świat z obrazów Jacka Malczewskiego oczami mojej wyobraźni\"",
     "wynik": "II miejsce: praca literacka",
@@ -2071,7 +2389,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs literacko-plastyczny „Świat z obrazów Jacka Malczewskiego oczami mojej wyobraźni\"",
     "wynik": "III miejsce: praca literacka",
@@ -2084,7 +2404,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "V Młodzieżowy Przegląd Teatralny w Radomiu",
     "wynik": "wyróżnienie",
@@ -2097,7 +2419,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "filozofia",
+    "przedmiot": [
+      "filozofia"
+    ],
     "waga": 746,
     "konkurs": "XXXVII Olimpiada Filozoficzna",
     "wynik": "finalistka",
@@ -2110,7 +2434,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "33. Regionalny Konkurs Literacki organizowany przez Centrum Młodzieży Arka",
     "wynik": "wyróżnienie",
@@ -2123,7 +2449,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Radomski Konkurs Recytatorski „Melodie słów” poświęcony twórczości Zbigniewa Herberta",
     "wynik": "I miejsce",
@@ -2136,7 +2464,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XX Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt” poświęcone pamięci Ernesta Brylla",
     "wynik": "I miejsce",
@@ -2149,7 +2479,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XX Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt” poświęcone pamięci Ernesta Brylla",
     "wynik": "wyróżnienie",
@@ -2162,7 +2494,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs czytelniczy „Radomscy Tropiciele Książek”",
     "wynik": "finalistka",
@@ -2175,7 +2509,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs czytelniczy „Radomscy Tropiciele Książek”",
     "wynik": "finalistka",
@@ -2188,7 +2524,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs czytelniczy „Radomscy Tropiciele Książek”",
     "wynik": "finalistka",
@@ -2201,7 +2539,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs Twórczości Literackiej",
     "wynik": "II miejsce",
@@ -2214,7 +2554,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Konkurs Twórczości Literackiej",
     "wynik": "II miejsce",
@@ -2227,7 +2569,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIX Regionalny Konkurs Czytelniczy",
     "wynik": "wyróżnienie",
@@ -2240,7 +2584,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -2253,7 +2599,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -2266,7 +2614,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -2279,7 +2629,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -2292,7 +2644,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XIX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -2305,7 +2659,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria plakat:",
     "wynik": "I miejsce",
@@ -2318,7 +2674,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria plakat:",
     "wynik": "III miejsce",
@@ -2331,7 +2689,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria plakat:",
     "wynik": "wyróżnienie",
@@ -2344,7 +2704,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria plakat:",
     "wynik": "wyróżnienie",
@@ -2357,7 +2719,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria plakat:",
     "wynik": "wyróżnienie",
@@ -2370,7 +2734,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria wiersz:",
     "wynik": "I miejsce",
@@ -2383,7 +2749,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria wiersz:",
     "wynik": "III miejsce",
@@ -2396,7 +2764,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria wiersz:",
     "wynik": "wyróżnienie",
@@ -2409,7 +2779,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria wiersz:",
     "wynik": "wyróżnienie",
@@ -2422,7 +2794,9 @@
     "rok": "2024/2025",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Międzyszkolny konkurs plastyczno-literacki „Katyń – Pamiętamy!” - kategoria wiersz:",
     "wynik": "nagroda specjalna",
@@ -2435,7 +2809,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "angielski",
+    "przedmiot": [
+      "angielski"
+    ],
     "waga": 439,
     "konkurs": "Musketeers of Words - Polish Oxford Debates Championships in English",
     "wynik": "wyróżnienie: ‘The Fastest Progress’",
@@ -2448,7 +2824,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "angielski",
+    "przedmiot": [
+      "angielski"
+    ],
     "waga": 539,
     "konkurs": "V Olimpiada Języka Angielskiego z Elementami Technicznymi dla Szkół Średnich",
     "wynik": "finalista",
@@ -2461,7 +2839,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "angielski",
+    "przedmiot": [
+      "angielski"
+    ],
     "waga": 539,
     "konkurs": "V Olimpiada Języka Angielskiego z Elementami Technicznymi dla Szkół Średnich",
     "wynik": "finalistka",
@@ -2474,7 +2854,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "angielski",
+    "przedmiot": [
+      "angielski"
+    ],
     "waga": 339,
     "konkurs": "Wielki Test Cambridge w Radomiu",
     "wynik": "laureatka",
@@ -2487,7 +2869,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "angielski",
+    "przedmiot": [
+      "angielski"
+    ],
     "waga": 539,
     "konkurs": "VI Olimpiada Języka Angielskiego z Elementami Technicznymi dla Szkół Średnich",
     "wynik": "półfinalista",
@@ -2500,7 +2884,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "II edycja Ogólnopolskiego Konkursu Turbolandeskunde",
     "wynik": "I miejsce w półfinale",
@@ -2513,7 +2899,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "III edycja Ogólnopolskiego Konkursu Turbolandeskunde",
     "wynik": "II miejsce w półfinale",
@@ -2526,7 +2914,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "V edycja Ogólnopolskiego Konkursu Turbolandeskunde",
     "wynik": "II miejsce w półfinale",
@@ -2539,7 +2929,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "Konkurs Wiedzy o Austrii",
     "wynik": "II miejsce w finale",
@@ -2552,7 +2944,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "Konkurs Wiedzy o Austrii",
     "wynik": "wyróżnienie",
@@ -2565,7 +2959,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "Konkurs Wiedzy o Austrii",
     "wynik": "wyróżnienie",
@@ -2578,7 +2974,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 338,
     "konkurs": "Warszawski Konkurs Piosenki Obcojęzycznej Jose Song",
     "wynik": "wyróżnienie",
@@ -2591,7 +2989,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "VI edycja Ogólnopolskiego Konkursu Turbolandeskunde",
     "wynik": "II miejsce w półfinale",
@@ -2604,7 +3004,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "IX edycja Ogólnopolskiego Konkursu Turbolandeskunde",
     "wynik": "II miejsce w półfinale",
@@ -2617,7 +3019,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "hiszpański",
+    "przedmiot": [
+      "hiszpański"
+    ],
     "waga": 437,
     "konkurs": "Konkurs na wypracowanie w języku hiszpańskim „Giner de los Ríos” dla uczniów sekcji dwujęzycznych w Polsce",
     "wynik": "I miejsce",
@@ -2630,7 +3034,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "hiszpański",
+    "przedmiot": [
+      "hiszpański"
+    ],
     "waga": 437,
     "konkurs": "Konkurs na wypracowanie w języku hiszpańskim „Giner de los Ríos” dla uczniów sekcji dwujęzycznych w Polsce",
     "wynik": "II miejsce",
@@ -2643,7 +3049,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "hiszpański",
+    "przedmiot": [
+      "hiszpański"
+    ],
     "waga": 737,
     "konkurs": "Olimpiada języka hiszpańsiego",
     "wynik": "finalistka",
@@ -2656,7 +3064,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "hiszpański",
+    "przedmiot": [
+      "hiszpański"
+    ],
     "waga": 437,
     "konkurs": "Konkurs na wypracowanie w języku hiszpańskim „Giner de los Ríos” dla uczniów sekcji dwujęzycznych w Polsce",
     "wynik": "I miejsce",
@@ -2669,7 +3079,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "hiszpański",
+    "przedmiot": [
+      "hiszpański"
+    ],
     "waga": 437,
     "konkurs": "XVII Konkurs Teatrów w Języku Hiszpańskim dla Sekcji dwujęzycznych w Polsce – Concurso nacional de teatro „Alfonso Alvarez Marcos”-",
     "wynik": "I miejsce",
@@ -2682,7 +3094,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "hiszpański",
+    "przedmiot": [
+      "hiszpański"
+    ],
     "waga": 737,
     "konkurs": "Olimpiada języka hiszpańsiego",
     "wynik": "finalistka",
@@ -2695,7 +3109,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "hiszpański",
+    "przedmiot": [
+      "hiszpański"
+    ],
     "waga": 437,
     "konkurs": "XVIII Konkurs Teatrów w Języku Hiszpańskim dla Sekcji dwujęzycznych w Polsce – Concurso nacional de teatro „Alfonso Alvarez Marcos”-",
     "wynik": "I miejsce",
@@ -2708,7 +3124,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "hiszpański",
+    "przedmiot": [
+      "hiszpański"
+    ],
     "waga": 437,
     "konkurs": "Konkurs na wypracowanie w języku hiszpańskim „Giner de los Ríos” dla uczniów sekcji dwujęzycznych w Polsce",
     "wynik": "II miejsce",
@@ -2721,7 +3139,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 547,
     "konkurs": "XIII Olimpiada Wiedzy o Prawie",
     "wynik": "finalista",
@@ -2734,7 +3154,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureaci",
@@ -2747,7 +3169,9 @@
     "rok": "2015/2016",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Ogólnopolski Konkurs Epizody Historii Najnowszej Polski w Komiksie",
     "wynik": "finalistka",
@@ -2760,7 +3184,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 447,
     "konkurs": "Ogólnopolski Konkurs „Wszystko o Senacie”",
     "wynik": "finalistka",
@@ -2773,7 +3199,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 447,
     "konkurs": "Ogólnopolski Konkurs „Wszystko o Senacie”",
     "wynik": "finalistka",
@@ -2786,7 +3214,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Ogólnopolski Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureat",
@@ -2799,7 +3229,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Ogólnopolski Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureatka",
@@ -2812,7 +3244,9 @@
     "rok": "2016/2017",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Ogólnopolski Konkurs Epizody Historii Najnowszej Polski w Komiksie",
     "wynik": "finalistka",
@@ -2825,7 +3259,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Ogólnopolski Konkurs Historyczny Losy Żołnierza i Dzieje Oręża Polskiego",
     "wynik": "laureat",
@@ -2838,7 +3274,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Ogólnopolski Konkurs Historyczny Losy Żołnierza i Dzieje Oręża Polskiego",
     "wynik": "finalista",
@@ -2851,7 +3289,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Ogólnopolski Konkurs Historyczny Losy Żołnierza i Dzieje Oręża Polskiego",
     "wynik": "finalista",
@@ -2864,7 +3304,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 447,
     "konkurs": "Konkurs o Unii Europejskiej",
     "wynik": "laureat",
@@ -2877,7 +3319,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureat",
@@ -2890,7 +3334,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureat",
@@ -2903,7 +3349,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "VI edycja ogólnopolskiego konkursu Epizody z historii najnowszej Polski w komiksie",
     "wynik": "laureatka",
@@ -2916,7 +3364,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "VI edycja ogólnopolskiego konkursu Epizody z historii najnowszej Polski w komiksie",
     "wynik": "laureatka",
@@ -2929,7 +3379,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada „Losy żołnierza i dzieje oręża polskiego”",
     "wynik": "laureat",
@@ -2942,7 +3394,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada „Losy żołnierza i dzieje oręża polskiego”",
     "wynik": "finalista",
@@ -2955,7 +3409,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 348,
     "konkurs": "Ogólnopolski Konkurs Mazowieckiego Kuratora Oświaty „ Kartka dla Niepodległej”",
     "wynik": "wyróżnienie",
@@ -2968,7 +3424,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Ogólnopolski Konkurs „Lekcja historii i sztuki z Jackiem Kaczmarskim” –",
     "wynik": "finalistka",
@@ -2981,7 +3439,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 447,
     "konkurs": "Mistrzostwa Polskie Debat Oksfordzkich w Poznaniu",
     "wynik": "finaliści",
@@ -2994,7 +3454,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureatka",
@@ -3007,7 +3469,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureatka",
@@ -3020,7 +3484,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureatka",
@@ -3033,7 +3499,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureatka",
@@ -3046,7 +3514,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureatka",
@@ -3059,7 +3529,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 347,
     "konkurs": "Gra miejska „Republika Radomska” z okazji 100 – lecia niepodległości",
     "wynik": "I miejsce",
@@ -3072,7 +3544,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada „Losy żołnierza i dzieje oręża polskiego”",
     "wynik": "finalista",
@@ -3085,7 +3559,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada „Losy żołnierza i dzieje oręża polskiego”",
     "wynik": "finalista",
@@ -3098,7 +3574,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 747,
     "konkurs": "Olimpiada Wiedzy o Polsce i Świecie Współczesnym",
     "wynik": "finalista",
@@ -3111,7 +3589,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 447,
     "konkurs": "Konkurs Wiedzy o Prawie- profesje prawnicze w Polsce",
     "wynik": "laureatka",
@@ -3124,7 +3604,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "finalista",
@@ -3137,7 +3619,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 347,
     "konkurs": "Gra miejska „100 lecie ZSB”",
     "wynik": "II miejsce",
@@ -3150,7 +3634,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada \"Losy żołnierza i dzieje oręża polskiego\"",
     "wynik": "laureat",
@@ -3163,7 +3649,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada \"Losy żołnierza i dzieje oręża polskiego\"",
     "wynik": "finalistka",
@@ -3176,7 +3664,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 448,
     "konkurs": "Konkurs Wiedzy o Uniwersytecie Jagiellońskim",
     "wynik": "laureaci",
@@ -3189,7 +3679,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "wos",
+    "przedmiot": [
+      "wos"
+    ],
     "waga": 547,
     "konkurs": "Olimpiada Policyjna",
     "wynik": "finalista",
@@ -3202,7 +3694,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada \"Losy żołnierza i dzieje oręża polskiego\"",
     "wynik": "finalista",
@@ -3215,7 +3709,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada \"Losy żołnierza i dzieje oręża polskiego\"",
     "wynik": "finalista",
@@ -3228,7 +3724,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "Olimpiada Losy Żołnierza i Dzieje Oręża Polskiego",
     "wynik": "finalista",
@@ -3241,7 +3739,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Kangur Matematyczny",
     "wynik": "wyróżnienie",
@@ -3254,7 +3754,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 329,
     "konkurs": "Radomskie Zawody Matematyczne",
     "wynik": "finalistka",
@@ -3267,7 +3769,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 329,
     "konkurs": "Radomskie Zawody Matematyczne",
     "wynik": "finalistka",
@@ -3280,7 +3784,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 329,
     "konkurs": "Radomskie Zawody Matematyczne",
     "wynik": "finalistka",
@@ -3293,7 +3799,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 329,
     "konkurs": "Radomskie Zawody Matematyczne",
     "wynik": "finalista",
@@ -3306,7 +3814,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Kangur Matematyczny",
     "wynik": "wyróżnienie",
@@ -3319,7 +3829,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Kangur Matematyczny",
     "wynik": "wyróżnienie",
@@ -3332,7 +3844,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Kangur Matematyczny",
     "wynik": "wyróżnienie",
@@ -3345,7 +3859,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 329,
     "konkurs": "Radomskie Zawody Matematyczne",
     "wynik": "I miejsce",
@@ -3358,7 +3874,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 329,
     "konkurs": "Radomskie Zawody Matematyczne",
     "wynik": "III miejsce",
@@ -3371,7 +3889,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Konkurs Matematyczny UKSW w Warszawie",
     "wynik": "Indeks",
@@ -3384,7 +3904,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Konkurs Matematyczny Politechniki Łódzkiej",
     "wynik": "IV miejsce drużynowo",
@@ -3397,7 +3919,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Internetowa Olimpiada Matematyczna",
     "wynik": "finał",
@@ -3410,7 +3934,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Kangur Matematyczny",
     "wynik": "wyróżnienie",
@@ -3423,7 +3949,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 329,
     "konkurs": "Radomskie Zawody Matematyczne",
     "wynik": "III miejsce",
@@ -3436,7 +3964,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 329,
     "konkurs": "Radomskie Zawody Matematyczne",
     "wynik": "wyróżnienie",
@@ -3449,7 +3979,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Kangur Matematyczny",
     "wynik": "wyróżnienie",
@@ -3462,7 +3994,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Kangur Matematyczny",
     "wynik": "",
@@ -3475,7 +4009,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Kangur Matematyczny",
     "wynik": "",
@@ -3488,7 +4024,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyka Bez Granic",
     "wynik": "I miejsce w regionie",
@@ -3501,7 +4039,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 529,
     "konkurs": "Olimpiada o Diamentowy Indeks AGH - matematyka",
     "wynik": "laureat - Indeks AGH",
@@ -3514,7 +4054,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 529,
     "konkurs": "Olimpiada o Diamentowy Indeks AGH - matematyka",
     "wynik": "Laureat – Indeks AGH",
@@ -3527,7 +4069,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3540,7 +4084,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "Bardzo dobry",
@@ -3553,7 +4099,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3566,7 +4114,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3579,7 +4129,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3592,7 +4144,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3605,7 +4159,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3618,7 +4174,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3631,7 +4189,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3644,7 +4204,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Ogólnopolski Konkurs Matematyczno – Plastyczny SNM",
     "wynik": "finalistka",
@@ -3657,7 +4219,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyka Bez Granic",
     "wynik": "III miejsce w województwie",
@@ -3670,7 +4234,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -3683,7 +4249,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "",
@@ -3696,7 +4264,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "",
@@ -3709,7 +4279,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "",
@@ -3722,7 +4294,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "",
@@ -3735,7 +4309,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 527,
     "konkurs": "Ogólnopolska Olimpiada o Diamentowy Indeks AGH z fizyki",
     "wynik": "laureat",
@@ -3748,7 +4324,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 427,
     "konkurs": "Ogólnopolski Konkurs fizyczny „Eureka”.",
     "wynik": "wyróżnienie",
@@ -3761,7 +4339,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 427,
     "konkurs": "Ogólnopolski Konkurs fizyczny „Eureka”.",
     "wynik": "wyróżnienie",
@@ -3774,7 +4354,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 427,
     "konkurs": "Ogólnopolski Konkurs fizyczny „Eureka”.",
     "wynik": "wyróżnienie",
@@ -3787,7 +4369,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 427,
     "konkurs": "Ogólnopolski Konkurs fizyczny „Eureka”.",
     "wynik": "wyróżnienie",
@@ -3800,7 +4384,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 427,
     "konkurs": "Ogólnopolski Konkurs fizyczny „Eureka”.",
     "wynik": "wyróżnienie",
@@ -3813,7 +4399,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 427,
     "konkurs": "Ogólnopolski Konkurs fizyczny „Eureka”.",
     "wynik": "wyróżnienie",
@@ -3826,7 +4414,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 427,
     "konkurs": "Konkurs Wiedzy o Materiałach Wydziału Inżynierii Materiałowej Politechniki Warszawskiej.",
     "wynik": "Laureatka I-go miejsca",
@@ -3839,7 +4429,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 527,
     "konkurs": "Ogólnopolska Olimpiada o Diamentowy Indeks AGH z fizyki",
     "wynik": "Laureat",
@@ -3852,7 +4444,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 527,
     "konkurs": "Ogólnopolska Olimpiada o Diamentowy Indeks AGH z fizyki",
     "wynik": "finalistka",
@@ -3865,7 +4459,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 527,
     "konkurs": "Ogólnopolska Olimpiada o Diamentowy Indeks AGH z fizyki",
     "wynik": "finalista",
@@ -3878,7 +4474,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 427,
     "konkurs": "Konkurs “Oczarowani fizyką” organizowany przez Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego Polskiej Akademii Nauk w Krakowie",
     "wynik": "I miejsce",
@@ -3891,7 +4489,9 @@
     "rok": "2021/2022",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "biologia",
+    "przedmiot": [
+      "biologia"
+    ],
     "waga": 425,
     "konkurs": "Konkurs plastyczny „ Jak dbam o mózg” zorganizowany przez Fundację Marcelego Nenckiego Wspierania Nauk Biologicznych oraz Instytut Biologii Doświadczalnej im. Marcelego Nenckiego PAN",
     "wynik": "wyróżnienie",
@@ -3904,7 +4504,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "biologia",
+    "przedmiot": [
+      "biologia"
+    ],
     "waga": 525,
     "konkurs": "Olimpiada Zdrowia PCK",
     "wynik": "II miejsce etap rejonowy",
@@ -3917,7 +4519,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "biologia",
+    "przedmiot": [
+      "biologia"
+    ],
     "waga": 525,
     "konkurs": "Olimpiada Zdrowia PCK",
     "wynik": "II miejsce etap rejonowy",
@@ -3930,7 +4534,9 @@
     "rok": "2024/2025",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "biologia",
+    "przedmiot": [
+      "biologia"
+    ],
     "waga": 525,
     "konkurs": "Olimpiada Zdrowia PCK",
     "wynik": "III miejsce etap rejonowy",
@@ -3943,7 +4549,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "chemia",
+    "przedmiot": [
+      "chemia"
+    ],
     "waga": 326,
     "konkurs": "Konkurs chemiczny z materiałoznawstwa",
     "wynik": "laureat",
@@ -3956,7 +4564,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "chemia",
+    "przedmiot": [
+      "chemia"
+    ],
     "waga": 426,
     "konkurs": "Młody Innowator",
     "wynik": "wyróżnienie",
@@ -3969,7 +4579,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "chemia",
+    "przedmiot": [
+      "chemia"
+    ],
     "waga": 426,
     "konkurs": "Młody Innowator",
     "wynik": "wyróżnienie",
@@ -3982,7 +4594,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "chemia",
+    "przedmiot": [
+      "chemia"
+    ],
     "waga": 426,
     "konkurs": "Młody Innowator",
     "wynik": "wyróżnienie",
@@ -3995,7 +4609,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "geografia",
+    "przedmiot": [
+      "geografia"
+    ],
     "waga": 424,
     "konkurs": "Ogólnopolska Olimpiada o Diamentowy Indeks AGH (geografia z elementami geologii)",
     "wynik": "laureat",
@@ -4008,7 +4624,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "geografia",
+    "przedmiot": [
+      "geografia"
+    ],
     "waga": 324,
     "konkurs": "GeoQuiz: Zrozumieć Ziemię Podczas obchodów Dnia Geografa -organizowany przez Instytut Geografii i Nauk o Środowisku UJK Oddział Kielecki Polskiego Towarzystwa Geograficznego",
     "wynik": "III miejsce",
@@ -4021,7 +4639,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "informatyka",
+    "przedmiot": [
+      "informatyka"
+    ],
     "waga": 428,
     "konkurs": "Konkurs informatyczny „BÓBR”",
     "wynik": "wyróżnienie",
@@ -4034,7 +4654,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "informatyka",
+    "przedmiot": [
+      "informatyka"
+    ],
     "waga": 428,
     "konkurs": "Konkurs informatyczny „BÓBR”",
     "wynik": "wyróżnienie",
@@ -4047,7 +4669,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "informatyka",
+    "przedmiot": [
+      "informatyka"
+    ],
     "waga": 428,
     "konkurs": "Konkurs informatyczny „BÓBR”",
     "wynik": "wyróżnienie",
@@ -4060,7 +4684,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "informatyka",
+    "przedmiot": [
+      "informatyka"
+    ],
     "waga": 428,
     "konkurs": "Konkurs informatyczny „BÓBR”",
     "wynik": "wyróżnienie",
@@ -4073,7 +4699,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "informatyka",
+    "przedmiot": [
+      "informatyka"
+    ],
     "waga": 428,
     "konkurs": "Konkurs informatyczny „BÓBR”",
     "wynik": "wyróżnienie",
@@ -4086,7 +4714,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "informatyka",
+    "przedmiot": [
+      "informatyka"
+    ],
     "waga": 428,
     "konkurs": "Konkurs informatyczny „BÓBR”",
     "wynik": "wyróżnienie",
@@ -4099,7 +4729,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "informatyka",
+    "przedmiot": [
+      "informatyka"
+    ],
     "waga": 428,
     "konkurs": "Konkurs informatyczny „BÓBR”",
     "wynik": "wyróżnienie",
@@ -4112,7 +4744,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "informatyka",
+    "przedmiot": [
+      "informatyka"
+    ],
     "waga": 428,
     "konkurs": "Konkurs informatyczny „BÓBR”",
     "wynik": "wyróżnienie",
@@ -4125,7 +4759,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 545,
     "konkurs": "XXVI Olimpiada Teologii Katolickiej",
     "wynik": "IV miejsce w et. diecezjalnym",
@@ -4138,7 +4774,9 @@
     "rok": "2015/2016",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XIX Ogólnopolski Konkurs Wiedzy Biblijnej",
     "wynik": "finalista",
@@ -4151,7 +4789,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 545,
     "konkurs": "XXVII Olimpiada Teologii Katolickiej",
     "wynik": "VI miejsce w et. diecezjalnym",
@@ -4164,7 +4804,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XXI Ogólnopolski Konkurs wiedzy Biblijnej",
     "wynik": "finalista",
@@ -4177,7 +4819,9 @@
     "rok": "2016/2017",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XXI Ogólnopolski Konkurs wiedzy Biblijnej",
     "wynik": "wyróżnienie w etapie diecezjalnym",
@@ -4190,7 +4834,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 545,
     "konkurs": "XXVIII Olimpiada Teologii Katolickiej",
     "wynik": "finalistka",
@@ -4203,7 +4849,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 545,
     "konkurs": "XXVIII Olimpiada Teologii Katolickiej",
     "wynik": "finalistka",
@@ -4216,7 +4864,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XXII Ogólnopolski Konkurs Wiedzy Biblijnej",
     "wynik": "finalista",
@@ -4229,7 +4879,9 @@
     "rok": "2017/2018",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XXII Ogólnopolski Konkurs Wiedzy Biblijnej",
     "wynik": "wyróżnienie w etapie diecezjalnym (IV miejsce)",
@@ -4242,7 +4894,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XV Ogólnopolski Festiwal Kolęd i Pastorałek „Staropolskie Kolędowanie” Radom’2017",
     "wynik": "finalista",
@@ -4255,7 +4909,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XV Ogólnopolski Festiwal Kolęd i Pastorałek „Staropolskie Kolędowanie” Radom’2017",
     "wynik": "wyróżnienie",
@@ -4268,7 +4924,9 @@
     "rok": "2017/2018",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XV Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "I miejsce w etapie regionalnym",
@@ -4281,7 +4939,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XXIII Ogólnopolski Konkurs Wiedzy Biblijnej",
     "wynik": "finalistka",
@@ -4294,7 +4954,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XXIII Ogólnopolski Konkurs Wiedzy Biblijnej",
     "wynik": "finalista",
@@ -4307,7 +4969,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVI Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "I miejsce w etapie regionalnym",
@@ -4320,7 +4984,9 @@
     "rok": "2018/2019",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVI Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "II miejsce w etapie regionalnym",
@@ -4333,7 +4999,9 @@
     "rok": "2018/2019",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "Konkurs ,,Niepodległe ścieżki ks. Jana Ziei” organizowany przez Młodzieżowy Ośrodek Wychowawczy w Kolonii Ossa.",
     "wynik": "wyróżnienie",
@@ -4346,7 +5014,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 545,
     "konkurs": "XXX Olimpiada Teologii Katolickiej",
     "wynik": "Wyróżnienie w etapie diecezjalnym",
@@ -4359,7 +5029,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XVI Konkurs Papieski",
     "wynik": "2 miejsce",
@@ -4372,7 +5044,9 @@
     "rok": "2019/2020",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XVI Konkurs Papieski",
     "wynik": "5 miejsce",
@@ -4385,7 +5059,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 545,
     "konkurs": "XXXI Olimpiada Teologii Katolickiej",
     "wynik": "III miejsce w etapie diecezjalnym",
@@ -4398,7 +5074,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 545,
     "konkurs": "XXXI Olimpiada Teologii Katolickiej",
     "wynik": "V miejsce w etapie diecezjalnym",
@@ -4411,7 +5089,9 @@
     "rok": "2020/2021",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XVI Konkurs Papieski",
     "wynik": "3 miejsce",
@@ -4424,7 +5104,9 @@
     "rok": "2021/2022",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XVIII Ogólnopolski Konkurs Papieski",
     "wynik": "3 miejsce",
@@ -4437,7 +5119,9 @@
     "rok": "2021/2022",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVII Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę\"",
     "wynik": "2 miejsce w etapie regionalnym (pieśń)",
@@ -4450,7 +5134,9 @@
     "rok": "2021/2022",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVII Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę\"",
     "wynik": "1 miejsce w etapie regionalnym (poezja)",
@@ -4463,7 +5149,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XXVII Ogólnopolski Konkurs Wiedzy Biblijnej",
     "wynik": "wyróżnienie w etapie diecezjalnym",
@@ -4476,7 +5164,9 @@
     "rok": "2022/2023",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XIX Ogólnopolski Konkurs Papieski",
     "wynik": "4 miejsce w finale",
@@ -4489,7 +5179,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVIII Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "II miejsce w et. reg. (pieśń patriotyczna)",
@@ -4502,7 +5194,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVIII Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "III miejsce w et. reg. (pieśń patriotyczna)",
@@ -4515,7 +5209,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVIII Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "III miejsce w et. reg. (poezja patriotyczna)",
@@ -4528,7 +5224,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVIII Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "III miejsce w et. reg. (poezja patriotyczna)",
@@ -4541,7 +5239,9 @@
     "rok": "2022/2023",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XVIII Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "wyróżnienie w et. reg. (poezja patriotyczna)",
@@ -4554,7 +5254,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 545,
     "konkurs": "XXXIV Olimpiada Teologii Katolickiej",
     "wynik": "finalista",
@@ -4567,7 +5269,9 @@
     "rok": "2023/2024",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XX Ogólnopolski Konkurs Papieski",
     "wynik": "finalistka",
@@ -4580,7 +5284,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XIX Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "I miejsce w et. reg. (pieśn patriotyczna)",
@@ -4593,7 +5299,9 @@
     "rok": "2023/2024",
     "rodzaj": "a",
     "ranga": "regionalna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 345,
     "konkurs": "XIX Diecezjalny Konkurs Pieśni i Poezji Patriotycznej „Kocham moją Ojczyznę”",
     "wynik": "I miejsce w et. reg. (poezja patriotyczna)",
@@ -4606,7 +5314,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe dziewcząt w XII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -4619,7 +5329,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna dziewcząt w XII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -4632,7 +5344,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna chłopców w XII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -4645,7 +5359,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Siatkówka plażowa dziewcząt w XII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -4658,7 +5374,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie dziewcząt w XII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -4671,7 +5389,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Gimnastyka dziewcząt w XII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce w układzie dwójek",
@@ -4684,7 +5404,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekka atletyka w XII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -4697,7 +5419,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XII R.O.M. - bieg na 400 m",
     "wynik": "I miejsce",
@@ -4710,7 +5434,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XII R.O.M. - bieg na 400 m",
     "wynik": "III miejsce",
@@ -4723,7 +5449,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XII R.O.M. - sztafeta 4x100 metrów",
     "wynik": "II miejsce",
@@ -4736,7 +5464,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XII R.O.M. - skok w dal",
     "wynik": "I miejsce",
@@ -4749,7 +5479,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XII R.O.M. - skok wzwyż",
     "wynik": "III miejsce",
@@ -4762,7 +5494,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XII R.O.M. - bieg na 100 metrów",
     "wynik": "II miejsce",
@@ -4775,7 +5509,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XII R.O.M. - bieg na 800 metrów",
     "wynik": "I miejsce",
@@ -4788,7 +5524,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Mistrzostwa Radomia Szkół Ponadgimnazjalnych w Szachach",
     "wynik": "I miejsce",
@@ -4801,7 +5539,9 @@
     "rok": "2015/2016",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Mistrzostwa Radomia Szkół Ponadgimnazjalnych w Szachach",
     "wynik": "III miejsce",
@@ -4814,7 +5554,9 @@
     "rok": "2016/2017",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna dziewcząt w XIII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -4827,7 +5569,9 @@
     "rok": "2016/2017",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe dziewcząt w XII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -4840,7 +5584,9 @@
     "rok": "2016/2017",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka koszykowa dziewcząt w XIII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -4853,7 +5599,9 @@
     "rok": "2016/2017",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka siatkowa chłopców w XIII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -4866,7 +5614,9 @@
     "rok": "2016/2017",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna dziewcząt w XIII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -4879,7 +5629,9 @@
     "rok": "2016/2017",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekkoatletyka dziewcząt i chłopców w XIII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -4892,7 +5644,9 @@
     "rok": "2016/2017",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie dziewcząt w XIII Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -4905,7 +5659,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -4918,7 +5674,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna dziewcząt w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -4931,7 +5689,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Koszykówka dziewcząt w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -4944,7 +5704,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna dziewcząt w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -4957,7 +5719,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka siatkowa chłopców w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -4970,7 +5734,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie dziewcząt i chłopców w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce drużynowo dziewcząt",
@@ -4983,7 +5749,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie dziewcząt i chłopców w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce drużynowo chłopców",
@@ -4996,7 +5764,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - styl dowolny na 50 m indywidualnie",
     "wynik": "II miejsce",
@@ -5009,7 +5779,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - styl dowolny na 50 m indywidualnie",
     "wynik": "III miejsce",
@@ -5022,7 +5794,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - styl dowolny na 50 m indywidualnie",
     "wynik": "I miejsce",
@@ -5035,7 +5809,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekkoatletyka dziewcząt i chłopców w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce drużynowo",
@@ -5048,7 +5824,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - sztafeta 4 x 100 m",
     "wynik": "II miejsce",
@@ -5061,7 +5839,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 100 m",
     "wynik": "II miejsce",
@@ -5074,7 +5854,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 200 m",
     "wynik": "II miejsce",
@@ -5087,7 +5869,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 200 m",
     "wynik": "III miejsce",
@@ -5100,7 +5884,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 400 m",
     "wynik": "I miejsce",
@@ -5113,7 +5899,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 400 m",
     "wynik": "II miejsce",
@@ -5126,7 +5914,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 400 m",
     "wynik": "III miejsce",
@@ -5139,7 +5929,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 800 m",
     "wynik": "II miejsce",
@@ -5152,7 +5944,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 800 m",
     "wynik": "III miejsce",
@@ -5165,7 +5959,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - bieg na 1500 m",
     "wynik": "I miejsce",
@@ -5178,7 +5974,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIV R.O.M. - skok wzwyż",
     "wynik": "II miejsce",
@@ -5191,7 +5989,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "TRIOBASKET chłopców w XIV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -5204,7 +6004,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Mistrzostwa Radomia Szkół Ponadgimnazjalnych W Szachach",
     "wynik": "II miejsce indywidualnie",
@@ -5217,7 +6019,9 @@
     "rok": "2017/2018",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Mistrzostwa Radomia Szkół Ponadgimnazjalnych W Szachach",
     "wynik": "II miejsce drużynowo",
@@ -5230,7 +6034,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -5243,7 +6049,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna dziewcząt w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5256,7 +6064,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka koszykowa dziewcząt w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5269,7 +6079,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna dziewcząt w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5282,7 +6094,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna chłopców w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5295,7 +6109,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Siatkówka plażowa dziewcząt w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5308,7 +6124,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Siatkówka plażowa chłopców w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5321,7 +6139,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie chłopców w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5334,7 +6154,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XV R.O.M. - indywidualnie",
     "wynik": "I miejsce",
@@ -5347,7 +6169,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XV R.O.M. - indywidualnie",
     "wynik": "III miejsce",
@@ -5360,7 +6184,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie dziewcząt w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5373,7 +6199,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XV R.O.M. - indywidualnie",
     "wynik": "I miejsce",
@@ -5386,7 +6214,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekkoatletyka dziewcząt w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -5399,7 +6229,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XV R.O.M. - sztafeta 4 x 100 m",
     "wynik": "II miejsce",
@@ -5412,7 +6244,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XV R.O.M. - bieg na 400 m",
     "wynik": "I miejsce",
@@ -5425,7 +6259,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XV R.O.M. - bieg na 100 m",
     "wynik": "III miejsce",
@@ -5438,7 +6274,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekkoatletyka chłopców w XV Radomskiej Olimpiadzie Młodzieży - bieg na 800 m",
     "wynik": "II miejsce",
@@ -5451,7 +6289,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekkoatletyka chłopców w XV Radomskiej Olimpiadzie Młodzieży - bieg na 200 m",
     "wynik": "II miejsce",
@@ -5464,7 +6304,9 @@
     "rok": "2018/2019",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka siatkowa chłopców w XV Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5477,7 +6319,9 @@
     "rok": "2019/2020",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe w XVI Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -5490,7 +6334,9 @@
     "rok": "2019/2020",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka koszykowa dziewcząt w XVI Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5503,7 +6349,9 @@
     "rok": "2019/2020",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Tenis stołowy dziewcząt w XVI Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -5516,7 +6364,9 @@
     "rok": "2021/2022",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe w XVIII Radomskiej Olimpiadzie Młodzieży.",
     "wynik": "III miejsce",
@@ -5529,7 +6379,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe dziewcząt w XIX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5542,7 +6394,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna chłopców w XIX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5555,7 +6409,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Koszykówka dziewcząt w XIX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5568,7 +6424,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie chłopców w XIX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5581,7 +6439,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie dziewcząt w XIX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5594,7 +6454,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Tenis stołowy chłopców w XIX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5607,7 +6469,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Indywidualne Mistrzostwa Radomia w Lekkiej Atletyce chłopców oraz dziewcząt w XIX Radomskiej Olimpiadzie Młodzieży * skok w dal,",
     "wynik": "I miejsce",
@@ -5620,7 +6484,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIX R.O.M. - pchnięcie kulą",
     "wynik": "III miejsce",
@@ -5633,7 +6499,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIX R.O.M. - bieg na 1000 m",
     "wynik": "II miejsce",
@@ -5646,7 +6514,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIX R.O.M. - bieg na 400m",
     "wynik": "II miejsce",
@@ -5659,7 +6529,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XIX R.O.M. - rzut oszczepem",
     "wynik": "II miesjce",
@@ -5672,7 +6544,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna dziewcząt w XIX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5685,7 +6559,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Turniej Piłki Ręcznej dziewcząt o Puchar Rektora Uniwersytetu Technologiczno - Humanistycznego w Radomiu",
     "wynik": "I miejsce",
@@ -5698,7 +6574,9 @@
     "rok": "2022/2023",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Turniej Piłki Ręcznej chłopców o Puchar Rektora Uniwersytetu Technologiczno - Humanistycznego w Radomiu.",
     "wynik": "III miejsce",
@@ -5711,7 +6589,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe dziewcząt w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5724,7 +6604,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna chłopców w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -5737,7 +6619,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Tenis stołowy chłopców w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5750,7 +6634,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna chłopców w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5763,7 +6649,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka koszykowa dziewcząt w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -5776,7 +6664,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie chłopców w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5789,7 +6679,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Pływanie dziewcząt w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5802,7 +6694,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekkoatletyka w XX Radomskiej Olimpiadzie * pchnięcie kulą",
     "wynik": "III miejsce",
@@ -5815,7 +6709,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - skok w dal",
     "wynik": "I miejsce",
@@ -5828,7 +6724,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - skok w dal",
     "wynik": "II miejsce",
@@ -5841,7 +6739,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - skok wzwyż",
     "wynik": "I miejsce",
@@ -5854,7 +6754,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - bieg na 100 m",
     "wynik": "III miejsce",
@@ -5867,7 +6769,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - rzut oszczepem",
     "wynik": "II miejsce",
@@ -5880,7 +6784,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - rzut oszczepem",
     "wynik": "III miejsce",
@@ -5893,7 +6799,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - pchnięcie kulą",
     "wynik": "III miejsce",
@@ -5906,7 +6814,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - pchnięcie kulą",
     "wynik": "II miejsce",
@@ -5919,7 +6829,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - bieg na 400 m",
     "wynik": "II miejsce",
@@ -5932,7 +6844,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - bieg na 200 m",
     "wynik": "I miejsce",
@@ -5945,7 +6859,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XX R.O.M. - bieg na 800 m",
     "wynik": "II miejsce",
@@ -5958,7 +6874,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna dziewcząt w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5971,7 +6889,9 @@
     "rok": "2023/2024",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka siatkowa dziewcząt w XX Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -5984,7 +6904,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe dziewcząt w XXI Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -5997,7 +6919,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Koszykówka dziewcząt w XXI Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -6010,7 +6934,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna dziewcząt w XXI Radomskiej Olimpiadzie Młodzieży",
     "wynik": "I miejsce",
@@ -6023,7 +6949,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna dziewcząt w XXI Radomskiej Olimpiadzie Młodzieży",
     "wynik": "II miejsce",
@@ -6036,7 +6964,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka siatkowa dziewcząt w XXI Radomskiej Olimpiadzie Młodzieży",
     "wynik": "III miejsce",
@@ -6049,7 +6979,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekka atletyka w XXI Radomskiej Olimpiadzie Młodzieży - drużynowo dziewczęta",
     "wynik": "I miejsce",
@@ -6062,7 +6994,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - bieg na 100 m",
     "wynik": "I miejsce",
@@ -6075,7 +7009,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - bieg na 200 m",
     "wynik": "II miejsce",
@@ -6088,7 +7024,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - bieg na 400 m",
     "wynik": "II miejsce",
@@ -6101,7 +7039,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - bieg na 800 m",
     "wynik": "III miejsce",
@@ -6114,7 +7054,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - skok w dal",
     "wynik": "III miejsce",
@@ -6127,7 +7069,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - rzut oszczepem",
     "wynik": "I miejsce",
@@ -6140,7 +7084,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - rzut oszczepem",
     "wynik": "II miejsce",
@@ -6153,7 +7099,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - pchnięcie kulą",
     "wynik": "I miejsce",
@@ -6166,7 +7114,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - pchnięcie kulą",
     "wynik": "II miejsce",
@@ -6179,7 +7129,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - sztafeta dziewcząt 4x100m",
     "wynik": "III miejsce",
@@ -6192,7 +7144,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekka atletyka w XXI Radomskiej Olimpiadzie Młodzieży - drużynowo chłopcy",
     "wynik": "III miejsce",
@@ -6205,7 +7159,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - bieg na 100 m",
     "wynik": "I miejsce",
@@ -6218,7 +7174,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - bieg na 1000 metrów",
     "wynik": "I miejsce",
@@ -6231,7 +7189,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXI R.O.M. - skok wzwyż",
     "wynik": "I miejsce",
@@ -6244,7 +7204,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "pływanie (st.dowolny 50m)",
     "wynik": "I miejsce",
@@ -6257,7 +7219,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "pływanie (st.dowolny 50m)",
     "wynik": "II miejsce",
@@ -6270,7 +7234,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "pływanie (st.dowolny 50m)",
     "wynik": "III miejsce",
@@ -6283,7 +7249,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "pływanie (st.dowolny 50m)",
     "wynik": "I miejsce",
@@ -6296,7 +7264,9 @@
     "rok": "2024/2025",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "pływanie (st.dowolny 50m)",
     "wynik": "I miejsce",
@@ -6309,7 +7279,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "inne_hum",
+    "przedmiot": [
+      "inne_hum"
+    ],
     "waga": 143,
     "konkurs": "Szkolny konkurs plastyczny „Dzieciństwo bez przemocy”",
     "wynik": "I miejsce",
@@ -6322,7 +7294,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "inne_hum",
+    "przedmiot": [
+      "inne_hum"
+    ],
     "waga": 143,
     "konkurs": "Szkolny konkurs plastyczny „Dzieciństwo bez przemocy”",
     "wynik": "II miejsce",
@@ -6335,7 +7309,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "inne_hum",
+    "przedmiot": [
+      "inne_hum"
+    ],
     "waga": 143,
     "konkurs": "Szkolny konkurs plastyczny „Dzieciństwo bez przemocy”",
     "wynik": "III miejsce",
@@ -6348,7 +7324,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs recytatorski „Od Jana Kochanowskiego do poety współczesnego” organizowany przez VI LO w Radomiu",
     "wynik": "II miejsce",
@@ -6361,7 +7339,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "Konkurs recytatorski „Od Jana Kochanowskiego do poety współczesnego” organizowany przez VI LO w Radomiu",
     "wynik": "wyróżnienie",
@@ -6374,7 +7354,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XXI Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt” poświęcone pamięci Czesława Miłosza w domu kultury Idalin",
     "wynik": "III miejsce",
@@ -6387,7 +7369,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XXI Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt” poświęcone pamięci Czesława Miłosza w domu kultury Idalin",
     "wynik": "wyróżnienie",
@@ -6400,7 +7384,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "XXI Prezentacje Recytatorskie „Poetae nascuntur, oratores fiunt” poświęcone pamięci Czesława Miłosza w domu kultury Idalin",
     "wynik": "wyróżnienie",
@@ -6413,7 +7399,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 249,
     "konkurs": "II Radomski Konkurs Recytatorski „Melodie słów”",
     "wynik": "wyróżnienie",
@@ -6426,7 +7414,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Sienkiewiczowscy bohaterowie masowej wyobraźni – Muzeum Literatury w Warszawie",
     "wynik": "II miejsce w kategorii tekst",
@@ -6439,7 +7429,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "Sienkiewiczowscy bohaterowie masowej wyobraźni – Muzeum Literatury w Warszawie",
     "wynik": "wyróżnienie w kategorii tekst",
@@ -6452,7 +7444,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XX Regionalny Konkurs Czytelniczy",
     "wynik": "II miejsce",
@@ -6465,7 +7459,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -6478,7 +7474,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -6491,7 +7489,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -6504,7 +7504,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XX Regionalny Konkurs Czytelniczy",
     "wynik": "finalistka",
@@ -6517,7 +7519,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "XX Regionalny Konkurs Czytelniczy",
     "wynik": "finalista",
@@ -6530,7 +7534,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "X Regionalny Konkurs Pięknego Czytania",
     "wynik": "II miejsce",
@@ -6543,7 +7549,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 349,
     "konkurs": "X Regionalny Konkurs Pięknego Czytania",
     "wynik": "wyróżnienie",
@@ -6556,7 +7564,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs literacko-plastyczny Katyń - Pamiętamy!",
     "wynik": "II miejsce w kategorii plakat",
@@ -6569,7 +7579,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs literacko-plastyczny Katyń - Pamiętamy!",
     "wynik": "wyróżnienie w kategorii plakat",
@@ -6582,7 +7594,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs literacko-plastyczny Katyń - Pamiętamy!",
     "wynik": "wyróżnienie w kategorii plakat",
@@ -6595,7 +7609,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs literacko-plastyczny Katyń - Pamiętamy!",
     "wynik": "I miejsce w kategorii literackiej",
@@ -6608,7 +7624,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs literacko-plastyczny Katyń - Pamiętamy!",
     "wynik": "wyróżnienie w kategorii literackiej",
@@ -6621,7 +7639,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "Konkurs literacko-plastyczny Katyń - Pamiętamy!",
     "wynik": "wyróżnienie w kategorii literackiej",
@@ -6634,7 +7654,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "ogólnopolska",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "waga": 449,
     "konkurs": "XXI Ogólnopolski Konkurs Pieśni i Poezji Patriotycznej „Kocham moją ojczyznę”",
     "wynik": "I miejsce",
@@ -6647,7 +7669,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "międzyszkolna",
-    "przedmiot": "filozofia",
+    "przedmiot": [
+      "filozofia"
+    ],
     "waga": 196,
     "konkurs": "Międzyszkolne Zawody Debat Oksfordzkich \"Wolność to odpowiedzialność z słowo\"",
     "wynik": "III miejsce",
@@ -6660,7 +7684,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 748,
     "konkurs": "XIX Olimpiada ”Losy żołnierza i dzieje oręża polskiego …”",
     "wynik": "finalista",
@@ -6673,7 +7699,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 348,
     "konkurs": "IV Konkurs Wiedzy o Historii Radomia",
     "wynik": "I miejsce",
@@ -6686,7 +7714,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 348,
     "konkurs": "IV Konkurs Wiedzy o Historii Radomia",
     "wynik": "finalistka",
@@ -6699,7 +7729,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 348,
     "konkurs": "IV Konkurs Wiedzy o Historii Radomia",
     "wynik": "finalistka",
@@ -6712,7 +7744,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "lokalna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 248,
     "konkurs": "„Radom 76-Rozegraj Historię” – gra zespołowa",
     "wynik": "I miejsce",
@@ -6725,7 +7759,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Gra miejska „Śladami naszego liceum”",
     "wynik": "I miejsce",
@@ -6738,7 +7774,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Cywilizacja Majów",
     "wynik": "laureat",
@@ -6751,7 +7789,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Cywilizacja Majów",
     "wynik": "laureatka",
@@ -6764,7 +7804,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Cywilizacja Majów",
     "wynik": "laureatka",
@@ -6777,7 +7819,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "filozofia",
+    "przedmiot": [
+      "filozofia"
+    ],
     "waga": 146,
     "konkurs": "Szkolny konkurs filozoficzny \"Co się za tym kryje?\"",
     "wynik": "I miejsce",
@@ -6790,7 +7834,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "filozofia",
+    "przedmiot": [
+      "filozofia"
+    ],
     "waga": 146,
     "konkurs": "Szkolny konkurs filozoficzny \"Co się za tym kryje?\"",
     "wynik": "II miejsce",
@@ -6803,7 +7849,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "filozofia",
+    "przedmiot": [
+      "filozofia"
+    ],
     "waga": 146,
     "konkurs": "Szkolny konkurs filozoficzny \"Co się za tym kryje?\"",
     "wynik": "III miejsce",
@@ -6816,7 +7864,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Konkurs „W roku 1905…”",
     "wynik": "laureatka",
@@ -6829,7 +7879,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Konkurs „W roku 1905…”",
     "wynik": "wyróżnienie",
@@ -6842,7 +7894,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Szkolny Konkurs artystyczny - 50. rocznica Radomskiego Protestu Robotniczego Czerwiec ‘76",
     "wynik": "I miejsce",
@@ -6855,7 +7909,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Szkolny Konkurs artystyczny - 50. rocznica Radomskiego Protestu Robotniczego Czerwiec ‘76",
     "wynik": "II miejsce",
@@ -6868,7 +7924,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Szkolny Konkurs artystyczny - 50. rocznica Radomskiego Protestu Robotniczego Czerwiec ‘76",
     "wynik": "III miejsce",
@@ -6881,7 +7939,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Szkolny Konkurs artystyczny - 50. rocznica Radomskiego Protestu Robotniczego Czerwiec ‘76",
     "wynik": "wyróżnienie",
@@ -6894,7 +7954,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "historia",
+    "przedmiot": [
+      "historia"
+    ],
     "waga": 148,
     "konkurs": "Szkolny Konkurs artystyczny - 50. rocznica Radomskiego Protestu Robotniczego Czerwiec ‘76",
     "wynik": "wyróżnienie",
@@ -6907,7 +7969,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 445,
     "konkurs": "XXX Ogólnopolski Konkurs Wiedzy Biblijnej",
     "wynik": "wyróżnienie w etapie diecezjalnym",
@@ -6920,7 +7984,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "angielski",
+    "przedmiot": [
+      "angielski"
+    ],
     "waga": 539,
     "konkurs": "VII Olimpiada Języka Angielskiego z Elementami Technicznymi dla Szkół Średnich",
     "wynik": "półfinalistka",
@@ -6933,7 +7999,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "angielski",
+    "przedmiot": [
+      "angielski"
+    ],
     "waga": 539,
     "konkurs": "VII Olimpiada Języka Angielskiego z Elementami Technicznymi dla Szkół Średnich",
     "wynik": "półfinalista",
@@ -6946,7 +8014,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 438,
     "konkurs": "Turbolandeskunde- wędrówka po krajach niemieckiego obszaru językowego- Austria",
     "wynik": "4 miejsce etap regionalny",
@@ -6959,7 +8029,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny konkurs plastyczno-językowy z okazji Europejskiego Dnia Języków",
     "wynik": "I miejsce",
@@ -6972,7 +8044,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny konkurs plastyczno-językowy z okazji Europejskiego Dnia Języków",
     "wynik": "II miejsce",
@@ -6985,7 +8059,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny konkurs plastyczno-językowy z okazji Europejskiego Dnia Języków",
     "wynik": "III miejsce",
@@ -6998,7 +8074,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny konkurs plastyczno-językowy z okazji Europejskiego Dnia Języków",
     "wynik": "wyróżnienie",
@@ -7011,7 +8089,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny konkurs plastyczno-językowy z okazji Europejskiego Dnia Języków",
     "wynik": "wyróżnienie",
@@ -7024,7 +8104,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Walentynkowy Konkurs Plastyczno-Językowy",
     "wynik": "I miejsce",
@@ -7037,7 +8119,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Walentynkowy Konkurs Plastyczno-Językowy",
     "wynik": "II miejsce",
@@ -7050,7 +8134,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Walentynkowy Konkurs Plastyczno-Językowy",
     "wynik": "III miejsce",
@@ -7063,7 +8149,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Walentynkowy Konkurs Plastyczno-Językowy",
     "wynik": "laureatka kategorii „wiersz o miłości”",
@@ -7076,7 +8164,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny Konkurs Językowo-Plastyczny na kartkę świąteczną z życzeniami w języku niemieckim",
     "wynik": "I miejsce",
@@ -7089,7 +8179,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny Konkurs Językowo-Plastyczny na kartkę świąteczną z życzeniami w języku niemieckim",
     "wynik": "II miejsce",
@@ -7102,7 +8194,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny Konkurs Językowo-Plastyczny na kartkę świąteczną z życzeniami w języku niemieckim",
     "wynik": "III miejsce",
@@ -7115,7 +8209,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "niemiecki",
+    "przedmiot": [
+      "niemiecki"
+    ],
     "waga": 138,
     "konkurs": "Szkolny Konkurs Językowo-Plastyczny na kartkę świąteczną z życzeniami w języku niemieckim",
     "wynik": "wyróżnienie",
@@ -7128,7 +8224,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -7141,7 +8239,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 429,
     "konkurs": "Matematyczny Kangur",
     "wynik": "wyróżnienie",
@@ -7154,7 +8254,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 129,
     "konkurs": "Turniej matematyczno-logiczny – „120 zadań na 120-lecie szkoły”",
     "wynik": "laureaci",
@@ -7167,7 +8269,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 129,
     "konkurs": "Szkolny Turniej Sudoku",
     "wynik": "I miejsce",
@@ -7180,7 +8284,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 129,
     "konkurs": "Szkolny Turniej Sudoku",
     "wynik": "II miejsce",
@@ -7193,7 +8299,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "szkolna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "waga": 129,
     "konkurs": "Szkolny Turniej Sudoku",
     "wynik": "III miejsce",
@@ -7206,7 +8314,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "fizyka",
+    "przedmiot": [
+      "fizyka"
+    ],
     "waga": 527,
     "konkurs": "Olimpiada o Diamentowy Indeks AGH z fizyki.",
     "wynik": "laureat",
@@ -7219,7 +8329,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "olimpijska",
-    "przedmiot": "biologia",
+    "przedmiot": [
+      "biologia"
+    ],
     "waga": 525,
     "konkurs": "Olimpiada Zdrowia PCK",
     "wynik": "III miejsce w etapie okręgowym",
@@ -7232,7 +8344,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "geografia",
+    "przedmiot": [
+      "geografia"
+    ],
     "waga": 324,
     "konkurs": "Konkurs „Poznajemy Ojcowiznę”",
     "wynik": "II miejsce",
@@ -7245,7 +8359,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "geografia",
+    "przedmiot": [
+      "geografia"
+    ],
     "waga": 324,
     "konkurs": "Konkurs „Zrozumieć Ziemię”",
     "wynik": "II miejsce",
@@ -7258,7 +8374,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "geografia",
+    "przedmiot": [
+      "geografia"
+    ],
     "waga": 424,
     "konkurs": "Konkurs Politechniki Warszawskiej „Zaplanuj swoją przestrzeń”",
     "wynik": "II etap",
@@ -7271,7 +8389,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "geografia",
+    "przedmiot": [
+      "geografia"
+    ],
     "waga": 424,
     "konkurs": "Konkurs Politechniki Warszawskiej „Zaplanuj swoją przestrzeń”",
     "wynik": "II etap",
@@ -7284,7 +8404,9 @@
     "rok": "2025/2026",
     "rodzaj": "n",
     "ranga": "ogólnopolska",
-    "przedmiot": "geografia",
+    "przedmiot": [
+      "geografia"
+    ],
     "waga": 424,
     "konkurs": "Konkurs Politechniki Warszawskiej „Zaplanuj swoją przestrzeń”",
     "wynik": "II etap",
@@ -7297,7 +8419,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Sztafetowe biegi przełajowe dziewcząt (XXII Radomska Olimpiada Młodzieży)",
     "wynik": "III miejsce",
@@ -7310,7 +8434,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Koszykówka dziewcząt (XXII Radomska Olimpiada Młodzieży)",
     "wynik": "III miejsce",
@@ -7323,7 +8449,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Koszykówka chłopców (XXII Radomska Olimpiada Młodzieży)",
     "wynik": "II miejsce",
@@ -7336,7 +8464,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka nożna chłopców (XXII Radomska Olimpiada Młodzieży)",
     "wynik": "II miejsce",
@@ -7349,7 +8479,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka ręczna dziewcząt (XXII Radomska Olimpiada Młodzieży)",
     "wynik": "I miejsce",
@@ -7362,7 +8494,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Piłka siatkowa dziewcząt (XXII Radomska Olimpiada Młodzieży)",
     "wynik": "I miejsce",
@@ -7375,7 +8509,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekkoatletyka dziewcząt (XXII Radomska Olimpiada Młodzieży)",
     "wynik": "II miejsce",
@@ -7388,7 +8524,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - bieg na 800 m",
     "wynik": "I miejsce",
@@ -7401,7 +8539,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - bieg na 800 m",
     "wynik": "III miejsce",
@@ -7414,7 +8554,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - bieg na 400 m",
     "wynik": "II miejsce",
@@ -7427,7 +8569,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - skok w dal",
     "wynik": "I miejsce",
@@ -7440,7 +8584,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - rzut oszczepem",
     "wynik": "I miejsce",
@@ -7453,7 +8599,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - pchnięcie kulą",
     "wynik": "II miejsce",
@@ -7466,7 +8614,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - pchnięcie kulą",
     "wynik": "III miejsce",
@@ -7479,7 +8629,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "Lekkoatletyka chłopców (XXII Radomska Olimpiada Młodzieży)",
     "wynik": "II miejsce",
@@ -7492,7 +8644,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - bieg na 100 m",
     "wynik": "I miejsce",
@@ -7505,7 +8659,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - bieg na 1000 m",
     "wynik": "I miejsce",
@@ -7518,7 +8674,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - bieg na 1000 m",
     "wynik": "II miejsce",
@@ -7531,7 +8689,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - rzut oszczepem",
     "wynik": "II miejsce",
@@ -7544,7 +8704,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 317,
     "konkurs": "XXII Radomska Olimpiada Młodzieży - sztafeta 4 × 100 m",
     "wynik": "I miejsce",
@@ -7557,7 +8719,9 @@
     "rok": "2025/2026",
     "rodzaj": "s",
     "ranga": "lokalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "waga": 217,
     "konkurs": "Międzyszkolny Mikołajkowy Turniej Piłki Siatkowej organizowany przez XI LO im. Stanisława Staszica w Radomiu",
     "wynik": "I miejsce",
@@ -7570,7 +8734,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "I miejsce",
@@ -7583,7 +8749,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "I miejsce",
@@ -7596,7 +8764,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "I miejsce",
@@ -7609,7 +8779,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "I miejsce",
@@ -7622,7 +8794,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "I miejsce",
@@ -7635,7 +8809,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "I miejsce",
@@ -7648,7 +8824,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "I miejsce",
@@ -7661,7 +8839,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "I miejsce",
@@ -7674,7 +8854,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "wyróżnienie",
@@ -7687,7 +8869,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "wyróżnienie",
@@ -7700,7 +8884,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "wyróżnienie",
@@ -7713,7 +8899,9 @@
     "rok": "2025/2026",
     "rodzaj": "a",
     "ranga": "szkolna",
-    "przedmiot": "religia",
+    "przedmiot": [
+      "religia"
+    ],
     "waga": 145,
     "konkurs": "Szkolny Konkurs Wielkanocny",
     "wynik": "wyróżnienie",
@@ -7722,11 +8910,13 @@
     "typ": "i"
   },
   {
-    "id": 601,
+    "id": 1,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "konkurs": "LXXVIII Olimpiada Matematyczna",
     "wynik": "Finalista",
     "etap": "Finał",
@@ -7737,11 +8927,13 @@
     "waga": 729
   },
   {
-    "id": 602,
+    "id": 2,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "konkurs": "LXXVIII Olimpiada Matematyczna",
     "wynik": "Laureat",
     "etap": "Finał",
@@ -7752,11 +8944,13 @@
     "waga": 729
   },
   {
-    "id": 603,
+    "id": 3,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "maturalna",
-    "przedmiot": "matematyka",
+    "przedmiot": [
+      "matematyka"
+    ],
     "konkurs": "LXXVIII Olimpiada Matematyczna",
     "wynik": "Uczestnik",
     "etap": "II etap",
@@ -7767,11 +8961,13 @@
     "waga": 729
   },
   {
-    "id": 604,
+    "id": 4,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "konkurs": "Regionalny konkurs Ortograficzny",
     "wynik": "I miejsce",
     "etap": "Brak etapów",
@@ -7782,11 +8978,13 @@
     "waga": 349
   },
   {
-    "id": 605,
+    "id": 5,
     "rok": "2026/2027",
     "rodzaj": "n",
     "ranga": "regionalna",
-    "przedmiot": "polski",
+    "przedmiot": [
+      "polski"
+    ],
     "konkurs": "Regionalny konkurs Ortograficzny",
     "wynik": "Mistrz ortografii",
     "etap": "Brak etapów",
@@ -7797,11 +8995,13 @@
     "waga": 349
   },
   {
-    "id": 606,
+    "id": 6,
     "rok": "2026/2027",
     "rodzaj": "s",
     "ranga": "regionalna",
-    "przedmiot": "wf",
+    "przedmiot": [
+      "wf"
+    ],
     "konkurs": "Mazowiecke Igrzyska Młodzieży w Piłce Siatkowej Chłopców",
     "wynik": "II miejsce",
     "etap": "Finał",
