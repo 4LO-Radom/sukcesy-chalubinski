@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sukcesy</title>
+    <link rel="stylesheet" href="sukcesy.css">
+</head>
+<body>
+    <h1>Sukcesy i osiągnięcia uczniów</h1>
+    <div class="panel">
+        <input
+            type="text"
+            id="txtSzukaj"
+            placeholder="Szukaj ucznia, konkursu lub opiekuna">
+
+        <button id="btnSzukaj">
+            Szukaj
+        </button>
+
+        <button id="btnReset">
+            Wyczyść
+        </button>
+        <label for="filtrPrzedmiot">Przedmiot:</label>
+        <select id="filtrPrzedmiot">
+            <option value="">Wszystkie przedmioty</option>
+        </select>
+    </div>
+    <div id="sukcesy"></div>
+        
+    <script src="sukcesy.js" defer></script>
+</body>
