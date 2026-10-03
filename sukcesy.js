@@ -200,7 +200,8 @@ function pobierzRekordy(rok, sekcja) {
 //tworzy poszczególne tabele
 function utworzTabele(rekordy, sekcja) {
 
-    
+    const wrapper = document.createElement("div");
+    wrapper.className = "table-wrapper";
     const tabela = document.createElement("table");
 
         tabela.innerHTML = `
@@ -252,8 +253,9 @@ function utworzTabele(rekordy, sekcja) {
         });
 
         tabela.appendChild(tbody);
+        wrapper.appendChild(tabela);
 
-    return tabela;
+    return wrapper;
 
 }
 

@@ -3,30 +3,77 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sukcesy</title>
+    <title>Sukcesy uczniów 4LO w Radomiu</title>
+    <link rel="icon" type="image/png" sizes="512x512" href="favicon.png">
     <link rel="stylesheet" href="sukcesy.css">
+    <link rel="stylesheet" href="layout.css">
+    
 </head>
 <body>
-    <h1>Sukcesy i osiągnięcia uczniów</h1>
-    <div class="panel">
-        <input
-            type="text"
-            id="txtSzukaj"
-            placeholder="Szukaj ucznia, konkursu lub opiekuna">
 
-        <button id="btnSzukaj">
-            Szukaj
-        </button>
+    <a id="top"></a>
 
-        <button id="btnReset">
-            Wyczyść
-        </button>
-        <label for="filtrPrzedmiot">Przedmiot:</label>
-        <select id="filtrPrzedmiot">
-            <option value="">Wszystkie przedmioty</option>
-        </select>
-    </div>
-    <div id="sukcesy"></div>
+    <!-- Nagłówek -->
+    <header class="topbar">
+        <div class="topbar-content">
+            <a target="_blank" href="https://www.chalubinski.edu.pl/">
+            
+                <img src="logo.png" alt="IV LO im. dra T. Chałubińskiego" class="logo">
+            </a>
+
+            <div class="topbar-right">
+                <a target="_blank" href="https://www.facebook.com/pages/category/High-School/IV-Liceum-Og%C3%B3lnokszta%C5%82c%C4%85ce-im-dra-Tytusa-Cha%C5%82ubi%C5%84skiego-w-Radomiu-1729509437262201/" class="facebook">
+                    <img src="f.png" alt="facebook" class="social-icon">
+                </a>
+            </div>
+
+        </div>
+    </header>
+
+    <!-- Główna zawartość -->
+    <main class="page-container">
+
+        <h1>Sukcesy i osiągnięcia uczniów</h1>
+
+        <div class="panel">
+
+            <input
+                type="text"
+                id="txtSzukaj"
+                placeholder="Szukaj ucznia, konkursu lub opiekuna">
+
+            <button id="btnSzukaj">
+                Szukaj
+            </button>
+
+            <button id="btnReset">
+                Wyczyść
+            </button>
+
+            <label for="filtrPrzedmiot"><small>Przedmiot:</small></label>
+
+            <select id="filtrPrzedmiot">
+                <option value="">
+                    Wszystkie przedmioty
+                </option>
+            </select>
+
+        </div>
+
+        <div id="sukcesy"></div>
+
+    </main>
+
+    <!-- Stopka -->
+    <footer class="footer">
         
+        
+            <a href="#top" class="back-to-top">▲ Powrót na górę</a>
+        
+            
+    </footer>
+
     <script src="sukcesy.js" defer></script>
+
 </body>
+</html>

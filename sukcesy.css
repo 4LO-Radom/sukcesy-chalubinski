@@ -8,6 +8,11 @@ font-weight: bold;
 padding: 6px 0;
 }
 
+.table-wrapper {
+width: 100%;
+overflow-x: auto;
+}
+
 table {
 width: 100%;
 border-collapse: collapse;

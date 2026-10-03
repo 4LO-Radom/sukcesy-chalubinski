@@ -1,0 +1,111 @@
+/* ==========================
+   Ustawienia ogólne
+   ========================== */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* ==========================
+   Nagłówek
+   ========================== */
+
+.topbar {
+    background: rgb(43, 70, 24);
+    padding: 10px 20px;
+}
+
+.topbar-content {
+    max-width: 1200px;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+    display: block;
+}
+
+.social-icon {
+    width: 72px;
+    height: 72px;
+    display: block;
+}
+
+/* ==========================
+   Zawartość
+   ========================== */
+
+.page-container {
+    width: 96%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0 40px;
+}
+
+/* Duże monitory */
+
+@media (min-width: 1600px) {
+    .page-container {
+        width: 90%;
+    }
+}
+
+/* Tablety */
+
+@media (max-width: 900px) {
+    .page-container {
+        width: 98%;
+    }
+}
+
+/* Telefony */
+
+
+@media (max-width: 600px) {
+
+    .topbar-content {
+        flex-direction: row;
+        gap: 12px;
+    }
+
+    .logo {
+        height: 70px;
+    }
+
+    
+
+    h1, .panel{
+        padding-left: 10px;
+    }
+}
+
+/* ==========================
+   Stopka
+   ========================== */
+
+.footer {
+    background: rgb(43, 70, 24);
+    text-align: center;
+    padding: 12px;
+}
+
+.back-to-top {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.back-to-top:hover {
+    text-decoration: underline;
+}
