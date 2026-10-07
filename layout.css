@@ -83,7 +83,19 @@ body {
         height: 70px;
     }
 
-    
+    #txtSzukaj {
+        width: 95%;
+        margin-bottom: 10px;
+    }
+
+    button {
+        width: 48%;
+        margin-bottom: 10px;
+    }
+
+    #filtrPrzedmiot {
+        display: inline-block;
+    }
 
     h1, .panel{
         padding-left: 10px;
