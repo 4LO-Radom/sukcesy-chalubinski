@@ -71,10 +71,14 @@ details details > summary {
 
 .panel {
     padding-bottom: 20px;
+    
+}
+.panel input, .panel button, .panel select, .panel label {
+    font-size: large;
 }
 
 #txtSzukaj {
-    width: 250px;
+    width: 320px;
     margin-bottom: 8px;
 }
 
