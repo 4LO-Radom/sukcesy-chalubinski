@@ -10124,7 +10124,7 @@
     ],
     "konkurs": "Szkolny konkurs fotograficzny „Zjawiska pogodowe w obiektywie”",
     "wynik": "II miejsce",
-    "etap": "",
+    "etap": "brak etapów",
     "uczen": "Lena Zwolska 1a",
     "opiekun": "Artur Kasprzyk, Patrycja Lizak, Monika Majewska-Dziuba",
     "uczestnicy": 10,
@@ -10177,6 +10177,23 @@
     "wynik": "wyróżnienie",
     "etap": "brak etapów",
     "uczen": "Zuzanna Piwowarek 1i",
+    "opiekun": "Artur Kasprzyk, Patrycja Lizak, Monika Majewska-Dziuba",
+    "uczestnicy": 10,
+    "zakonczony": true,
+    "waga": 124
+  },
+  {
+    "id": 600,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "geografia"
+    ],
+    "konkurs": "Szkolny konkurs fotograficzny „Zjawiska pogodowe w obiektywie”",
+    "wynik": "wyróżnienie",
+    "etap": "brak etapów",
+    "uczen": "Klaudia Murawska 2a",
     "opiekun": "Artur Kasprzyk, Patrycja Lizak, Monika Majewska-Dziuba",
     "uczestnicy": 10,
     "zakonczony": true,
