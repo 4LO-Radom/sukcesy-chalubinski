@@ -10098,6 +10098,23 @@
     "zakonczony": true
   },
   {
+    "id": 601,
+    "rok": "2026/2027",
+    "rodzaj": "n",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "polski"
+    ],
+    "konkurs": "SZKOLNY KONKURS WIEDZY O PATRONIE SZKOŁY „CZY ZNASZ TYTUSA CHAŁUBIŃSKIEGO?”",
+    "wynik": "I miejsce",
+    "etap": "brak etapów",
+    "uczen": "Kinga Jaroszek 1i",
+    "opiekun": "Marta Waniek, Monika Łukasiewicz, Markowska Katarzyna",
+    "uczestnicy": 40,
+    "zakonczony": true,
+    "waga": 149
+  },
+  {
     "id": 595,
     "rok": "2026/2027",
     "rodzaj": "a",
