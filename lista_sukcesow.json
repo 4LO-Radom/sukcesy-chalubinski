@@ -10115,6 +10115,78 @@
     "waga": 149
   },
   {
+    "id": 602,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "niemiecki",
+      "#angielski"
+    ],
+    "konkurs": "Konkurs językowo-plastyczny z okazji Europejskiego Dnia Języków",
+    "wynik": "I miejsce",
+    "etap": "brak etapów",
+    "uczen": "Wiktoria Pora 4b",
+    "opiekun": "Izabela Ikwanty, Beata Przerwa, Renata Leszczynska, Justyna Mrozek",
+    "uczestnicy": 31,
+    "zakonczony": true,
+    "waga": 138
+  },
+  {
+    "id": 603,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "niemiecki",
+      "#angielski"
+    ],
+    "konkurs": "Konkurs językowo-plastyczny z okazji Europejskiego Dnia Języków",
+    "wynik": "II miejsce",
+    "etap": "brak etapów",
+    "uczen": "Amelia Faryna 1a",
+    "opiekun": "Izabela Ikwanty, Beata Przerwa, Renata Leszczynska, Justyna Mrozek",
+    "uczestnicy": 31,
+    "zakonczony": true,
+    "waga": 138
+  },
+  {
+    "id": 604,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "niemiecki",
+      "#angielski"
+    ],
+    "konkurs": "Konkurs językowo-plastyczny z okazji Europejskiego Dnia Języków",
+    "wynik": "III miejsce",
+    "etap": "brak etapów",
+    "uczen": "Maja Puton 3e",
+    "opiekun": "Izabela Ikwanty, Beata Przerwa, Renata Leszczynska, Justyna Mrozek",
+    "uczestnicy": 31,
+    "zakonczony": true,
+    "waga": 138
+  },
+  {
+    "id": 605,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "niemiecki",
+      "#angielski"
+    ],
+    "konkurs": "Konkurs językowo-plastyczny z okazji Europejskiego Dnia Języków",
+    "wynik": "wyróżnienie",
+    "etap": "brak etapów",
+    "uczen": "Aleksandra Rybska 1e",
+    "opiekun": "Izabela Ikwanty, Beata Przerwa, Renata Leszczynska, Justyna Mrozek",
+    "uczestnicy": 31,
+    "zakonczony": true,
+    "waga": 138
+  },
+  {
     "id": 595,
     "rok": "2026/2027",
     "rodzaj": "a",
