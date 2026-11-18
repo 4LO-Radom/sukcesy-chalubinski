@@ -10098,6 +10098,25 @@
     "zakonczony": true
   },
   {
+    "id": 606,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "ogólnopolska",
+    "przedmiot": [
+      "wos",
+      "informatyka",
+      "edukacja zdrowotna"
+    ],
+    "konkurs": "EUROSCOLA 2027",
+    "wynik": "I miejsce",
+    "etap": "e. szkolny",
+    "uczen": "Antonina Chojnacka 3d, Amelia Chrząszcz 3d, Klaudia Sikora 3d, Julia Walczak 3d, Lena Rejmer 1h",
+    "opiekun": "Ewa Pawłowska-Wróbel, Adriana Kamienik, Agnieszka Jakubowska",
+    "uczestnicy": 8,
+    "zakonczony": true,
+    "waga": 447
+  },
+  {
     "id": 601,
     "rok": "2026/2027",
     "rodzaj": "n",
