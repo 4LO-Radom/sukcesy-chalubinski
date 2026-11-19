@@ -10134,6 +10134,57 @@
     "waga": 149
   },
   {
+    "id": 607,
+    "rok": "2026/2027",
+    "rodzaj": "n",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "filozofia"
+    ],
+    "konkurs": "Szkolny konkurs filozoficzny \"Co się za tym kryje?\"",
+    "wynik": "I miejsce",
+    "etap": "brak etapów",
+    "uczen": "Jakub Kowalski 1b",
+    "opiekun": "Dariusz Rzepka, Anna Iwańczyk-Górka",
+    "uczestnicy": 21,
+    "zakonczony": true,
+    "waga": 145
+  },
+  {
+    "id": 608,
+    "rok": "2026/2027",
+    "rodzaj": "n",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "filozofia"
+    ],
+    "konkurs": "Szkolny konkurs filozoficzny \"Co się za tym kryje?\"",
+    "wynik": "II miejsce",
+    "etap": "brak etapów",
+    "uczen": "Helena Kaszuba 1e",
+    "opiekun": "Dariusz Rzepka, Anna Iwańczyk-Górka",
+    "uczestnicy": 21,
+    "zakonczony": true,
+    "waga": 145
+  },
+  {
+    "id": 609,
+    "rok": "2026/2027",
+    "rodzaj": "n",
+    "ranga": "szkolna",
+    "przedmiot": [
+      "filozofia"
+    ],
+    "konkurs": "Szkolny konkurs filozoficzny \"Co się za tym kryje?\"",
+    "wynik": "III miejsce",
+    "etap": "brak etapów",
+    "uczen": "Stanisław Kopycki 1c",
+    "opiekun": "Dariusz Rzepka, Anna Iwańczyk-Górka",
+    "uczestnicy": 21,
+    "zakonczony": true,
+    "waga": 145
+  },
+  {
     "id": 602,
     "rok": "2026/2027",
     "rodzaj": "a",
