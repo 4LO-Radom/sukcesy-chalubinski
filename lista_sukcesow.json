@@ -10117,6 +10117,74 @@
     "waga": 447
   },
   {
+    "id": 610,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "regionalna",
+    "przedmiot": [
+      "polski"
+    ],
+    "konkurs": "XXII Prezentacje Recytatorskie poświęcone pamięci Zbigniewa Herberta „Poetae nascuntur oratores fiunt \" - kat. recytacja poezji",
+    "wynik": "I miejsce",
+    "etap": "brak etapów",
+    "uczen": "Lena Bogdańska 1h",
+    "opiekun": "Monika Łukasiewicz",
+    "uczestnicy": 7,
+    "zakonczony": true,
+    "waga": 349
+  },
+  {
+    "id": 611,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "regionalna",
+    "przedmiot": [
+      "polski"
+    ],
+    "konkurs": "XXII Prezentacje Recytatorskie poświęcone pamięci Zbigniewa Herberta „Poetae nascuntur oratores fiunt \" - kat. recytacja poezji",
+    "wynik": "III miejsce",
+    "etap": "brak etapów",
+    "uczen": "Amelia Chrząszcz 3d",
+    "opiekun": "Monika Łukasiewicz",
+    "uczestnicy": 7,
+    "zakonczony": true,
+    "waga": 349
+  },
+  {
+    "id": 612,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "regionalna",
+    "przedmiot": [
+      "polski"
+    ],
+    "konkurs": "XXII Prezentacje Recytatorskie poświęcone pamięci Zbigniewa Herberta „Poetae nascuntur oratores fiunt \" - kat. recytacja poezji",
+    "wynik": "wyróżnienie",
+    "etap": "brak etapów",
+    "uczen": "Liliana Kapciak 1h",
+    "opiekun": "Monika Łukasiewicz",
+    "uczestnicy": 7,
+    "zakonczony": true,
+    "waga": 349
+  },
+  {
+    "id": 613,
+    "rok": "2026/2027",
+    "rodzaj": "a",
+    "ranga": "regionalna",
+    "przedmiot": [
+      "polski"
+    ],
+    "konkurs": "XXII Prezentacje Recytatorskie poświęcone pamięci Zbigniewa Herberta „Poetae nascuntur oratores fiunt \" - kat. poezja śpiewana",
+    "wynik": "I miejsce",
+    "etap": "brak etapów",
+    "uczen": "Emilia Antonik 1h, Julia Rejmer 1h",
+    "opiekun": "Monika Łukasiewicz",
+    "uczestnicy": null,
+    "zakonczony": true,
+    "waga": 349
+  },
+  {
     "id": 601,
     "rok": "2026/2027",
     "rodzaj": "n",
