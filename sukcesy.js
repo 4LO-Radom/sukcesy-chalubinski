@@ -314,8 +314,16 @@ function renderuj(fraza = "", przedmiot = "") {
 
             detailsSekcja.open = aktywneWyszukiwanie || rokSzkAkt;
 
+            const liczbaKonkursow = new Set(
+                rekordy.map(r => r.konkurs)
+            ).size;
+
             const summarySekcja = document.createElement("summary");
-            summarySekcja.textContent = `${nazwaSekcji(sekcja)} (${rekordy.length})`;
+            summarySekcja.textContent =
+                `${nazwaSekcji(sekcja)} (${liczbaKonkursow}/${rekordy.length})`;
+
+            /* const summarySekcja = document.createElement("summary");
+            summarySekcja.textContent = `${nazwaSekcji(sekcja)} (${rekordy.length})`; */
 
             detailsSekcja.appendChild(summarySekcja);
 
